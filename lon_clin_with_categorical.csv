@@ -1,0 +1,919 @@
+Image Data ID,AGE,PTGENDER,PTEDUCAT,PTETHCAT,PTRACCAT,APOE4,CDRSB,ADAS11,ADAS13,RAVLT_immediate,RAVLT_learning,RAVLT_forgetting,RAVLT_perc_forgetting,label
+420849,62.9,Female,16,Not Hisp/Latino,White,0.0,1.5,8.0,11.0,42.0,10.0,1.0,7.692310000000001,sMCI
+786087,85.9,Male,16,Not Hisp/Latino,White,0.0,0.0,5.0,8.0,39.0,7.0,2.0,18.1818,sMCI
+537823,85.0,Female,15,Not Hisp/Latino,White,0.0,1.0,12.0,23.0,28.0,2.0,6.0,85.7143,pMCI
+537826,61.0,Female,12,Not Hisp/Latino,White,1.0,3.5,26.0,38.0,20.0,2.0,5.0,100.0,sMCI
+537827,72.6,Male,12,Not Hisp/Latino,White,1.0,8.0,18.0,29.0,22.0,4.0,5.0,83.3333,sMCI
+334756,78.3,Female,16,Not Hisp/Latino,White,1.0,1.0,9.0,17.0,43.0,6.0,6.0,54.5455,pMCI
+786091,74.8,Male,12,Not Hisp/Latino,White,2.0,4.5,20.0,32.0,18.0,2.0,4.0,100.0,pMCI
+334764,63.1,Female,14,Not Hisp/Latino,White,2.0,1.5,14.0,25.0,18.0,1.0,4.0,100.0,pMCI
+413139,71.4,Male,16,Not Hisp/Latino,White,1.0,2.5,15.0,23.0,32.0,4.0,8.0,100.0,sMCI
+334788,79.4,Male,16,Not Hisp/Latino,White,1.0,1.5,7.0,13.0,44.0,7.0,5.0,41.6667,sMCI
+413155,70.9,Female,17,Not Hisp/Latino,Black,1.0,3.0,9.0,13.0,35.0,5.0,10.0,100.0,sMCI
+334796,75.3,Female,15,Hisp/Latino,White,1.0,1.5,20.0,30.0,18.0,0.0,3.0,100.0,pMCI
+369558,72.0,Female,16,Not Hisp/Latino,White,1.0,2.5,18.0,25.0,28.0,3.0,8.0,100.0,pMCI
+369566,73.7,Male,20,Not Hisp/Latino,Asian,1.0,3.0,14.0,26.0,16.0,3.0,5.0,100.0,sMCI
+437850,66.9,Male,18,Not Hisp/Latino,White,1.0,1.5,9.0,11.0,29.0,2.0,3.0,50.0,sMCI
+298888,79.3,Male,20,Not Hisp/Latino,White,1.0,0.5,9.0,15.0,37.0,2.0,3.0,42.8571,sMCI
+437858,69.2,Male,18,Not Hisp/Latino,White,0.0,0.5,16.0,22.0,29.0,3.0,6.0,85.7143,sMCI
+298896,70.9,Female,17,Not Hisp/Latino,Black,1.0,1.5,12.0,18.0,26.0,2.0,6.0,100.0,sMCI
+449507,74.8,Male,12,Not Hisp/Latino,White,2.0,6.0,27.0,38.0,26.0,0.0,5.0,100.0,pMCI
+383250,78.1,Male,19,Not Hisp/Latino,White,0.0,3.5,16.0,26.0,21.0,7.0,9.0,100.0,pMCI
+356637,71.4,Male,16,Not Hisp/Latino,White,1.0,2.5,8.0,12.0,41.0,3.0,3.0,33.3333,sMCI
+383258,56.5,Male,12,Not Hisp/Latino,White,1.0,3.0,10.0,18.0,14.0,0.0,3.0,100.0,pMCI
+383274,60.8,Female,16,Not Hisp/Latino,White,1.0,2.0,13.0,19.0,50.0,1.0,8.0,80.0,sMCI
+298952,63.9,Male,18,Not Hisp/Latino,White,1.0,0.5,7.0,13.0,27.0,4.0,5.0,62.5,sMCI
+537844,73.7,Male,20,Not Hisp/Latino,Asian,1.0,5.0,25.0,36.0,15.0,2.0,3.0,75.0,sMCI
+397020,56.5,Male,12,Not Hisp/Latino,White,1.0,3.0,10.0,18.0,14.0,0.0,3.0,100.0,pMCI
+614185,71.3,Female,16,Not Hisp/Latino,White,2.0,3.5,20.0,31.0,21.0,1.0,4.0,100.0,pMCI
+614193,70.9,Female,17,Not Hisp/Latino,Black,1.0,3.5,16.0,23.0,19.0,3.0,6.0,100.0,sMCI
+356717,69.2,Male,18,Not Hisp/Latino,White,0.0,1.0,9.0,16.0,23.0,4.0,6.0,85.7143,sMCI
+763051,75.3,Female,15,Hisp/Latino,White,1.0,5.0,27.0,39.0,14.0,1.0,3.0,100.0,pMCI
+786092,65.4,Female,16,Not Hisp/Latino,White,0.0,1.0,9.0,16.0,35.0,3.0,4.0,50.0,sMCI
+298800,71.9,Male,19,Not Hisp/Latino,White,2.0,0.5,11.0,14.0,26.0,3.0,5.0,83.3333,sMCI
+356750,71.3,Female,16,Not Hisp/Latino,White,2.0,1.0,13.0,21.0,23.0,1.0,5.0,100.0,pMCI
+334773,79.8,Male,12,Not Hisp/Latino,White,1.0,1.5,12.0,20.0,20.0,3.0,4.0,80.0,pMCI
+356758,63.9,Male,18,Not Hisp/Latino,White,1.0,0.5,5.0,8.0,32.0,4.0,6.0,75.0,sMCI
+812593,63.9,Male,18,Not Hisp/Latino,White,1.0,0.5,7.0,14.0,34.0,2.0,8.0,100.0,sMCI
+334789,72.0,Female,16,Not Hisp/Latino,White,1.0,2.5,18.0,25.0,28.0,3.0,8.0,100.0,pMCI
+334797,77.2,Male,19,Not Hisp/Latino,White,0.0,1.5,12.0,19.0,26.0,4.0,4.0,57.1429,sMCI
+334805,68.1,Male,12,Not Hisp/Latino,White,1.0,1.0,11.0,19.0,35.0,4.0,7.0,77.7778,sMCI
+366720,68.1,Male,12,Not Hisp/Latino,White,1.0,1.0,12.0,19.0,25.0,5.0,4.0,57.1429,sMCI
+420867,75.7,Male,14,Not Hisp/Latino,White,0.0,1.0,11.0,17.0,27.0,3.0,4.0,57.1429,sMCI
+298881,76.1,Female,16,Not Hisp/Latino,White,1.0,3.0,21.0,31.0,19.0,2.0,4.0,100.0,pMCI
+383231,68.3,Male,16,Not Hisp/Latino,White,1.0,3.0,7.0,17.0,30.0,3.0,8.0,100.0,pMCI
+449508,74.3,Male,17,Not Hisp/Latino,White,1.0,3.5,22.0,31.0,24.0,1.0,5.0,100.0,pMCI
+383251,71.4,Male,16,Not Hisp/Latino,White,1.0,2.5,15.0,23.0,32.0,4.0,8.0,100.0,sMCI
+383275,77.8,Female,19,Not Hisp/Latino,White,0.0,3.5,13.0,24.0,29.0,3.0,7.0,100.0,pMCI
+487430,56.5,Male,12,Not Hisp/Latino,White,1.0,2.0,14.0,24.0,26.0,2.0,6.0,100.0,pMCI
+356670,79.4,Male,16,Not Hisp/Latino,White,1.0,1.5,7.0,13.0,44.0,7.0,5.0,41.6667,sMCI
+298953,70.8,Male,20,Not Hisp/Latino,White,2.0,2.5,19.0,31.0,27.0,0.0,5.0,100.0,pMCI
+356678,75.0,Male,20,Not Hisp/Latino,White,1.0,2.0,14.0,23.0,35.0,4.0,7.0,77.7778,pMCI
+356694,77.8,Male,16,Not Hisp/Latino,White,1.0,3.0,11.0,17.0,37.0,2.0,7.0,87.5,pMCI
+356702,66.9,Male,18,Not Hisp/Latino,White,1.0,1.5,4.0,7.0,25.0,5.0,7.0,87.5,sMCI
+397029,72.0,Female,16,Not Hisp/Latino,White,1.0,2.0,20.0,28.0,29.0,1.0,6.0,100.0,pMCI
+356710,77.8,Female,19,Not Hisp/Latino,White,0.0,2.5,16.0,23.0,29.0,0.0,5.0,83.3333,pMCI
+356718,71.3,Female,16,Not Hisp/Latino,White,2.0,1.0,13.0,21.0,23.0,1.0,5.0,100.0,pMCI
+698592,76.1,Female,16,Not Hisp/Latino,White,1.0,12.0,27.0,40.0,6.0,4.0,4.0,100.0,pMCI
+397045,71.3,Female,16,Not Hisp/Latino,White,2.0,3.5,13.0,24.0,19.0,2.0,5.0,100.0,pMCI
+356726,78.2,Male,16,Not Hisp/Latino,White,1.0,1.5,13.0,22.0,26.0,6.0,6.0,66.6667,pMCI
+356735,70.9,Female,17,Not Hisp/Latino,Black,1.0,2.0,7.0,14.0,28.0,4.0,4.0,57.1429,sMCI
+356759,70.8,Male,20,Not Hisp/Latino,White,2.0,3.0,20.0,32.0,20.0,1.0,4.0,100.0,pMCI
+366697,71.4,Male,16,Not Hisp/Latino,White,1.0,2.5,15.0,23.0,32.0,4.0,8.0,100.0,sMCI
+334798,82.6,Male,12,Not Hisp/Latino,White,0.0,3.0,14.0,22.0,26.0,2.0,6.0,100.0,sMCI
+334806,75.7,Male,14,Not Hisp/Latino,White,0.0,0.5,9.0,16.0,30.0,6.0,4.0,50.0,sMCI
+298849,71.3,Female,16,Not Hisp/Latino,White,2.0,1.0,16.0,24.0,27.0,2.0,6.0,100.0,pMCI
+366729,76.1,Female,16,Not Hisp/Latino,White,1.0,4.5,19.0,30.0,29.0,1.0,5.0,100.0,pMCI
+420876,76.1,Female,16,Not Hisp/Latino,White,1.0,6.5,14.0,25.0,29.0,4.0,8.0,100.0,pMCI
+437852,60.8,Female,16,Not Hisp/Latino,White,1.0,2.0,13.0,18.0,48.0,0.0,8.0,80.0,sMCI
+298890,63.9,Male,18,Not Hisp/Latino,White,1.0,0.5,7.0,13.0,27.0,4.0,5.0,62.5,sMCI
+471142,78.1,Male,19,Not Hisp/Latino,White,0.0,4.5,32.0,45.0,9.0,-1.0,0.0,0.0,pMCI
+356663,75.3,Female,15,Hisp/Latino,White,1.0,1.5,20.0,30.0,18.0,0.0,3.0,100.0,pMCI
+356671,77.2,Male,19,Not Hisp/Latino,White,0.0,1.5,12.0,19.0,26.0,4.0,4.0,57.1429,sMCI
+356679,74.8,Male,12,Not Hisp/Latino,White,2.0,2.5,12.0,23.0,22.0,4.0,6.0,100.0,pMCI
+356711,63.1,Female,14,Not Hisp/Latino,White,2.0,1.5,14.0,25.0,18.0,1.0,4.0,100.0,pMCI
+298999,79.3,Male,20,Not Hisp/Latino,White,1.0,1.0,5.0,15.0,38.0,4.0,9.0,100.0,sMCI
+334751,66.9,Male,18,Not Hisp/Latino,White,1.0,1.5,4.0,7.0,25.0,5.0,7.0,87.5,sMCI
+334759,60.8,Female,16,Not Hisp/Latino,White,1.0,1.0,10.0,14.0,46.0,5.0,5.0,45.4545,sMCI
+786094,68.1,Male,12,Not Hisp/Latino,White,1.0,3.0,12.0,16.0,19.0,2.0,5.0,100.0,sMCI
+334767,69.2,Male,18,Not Hisp/Latino,White,0.0,1.0,9.0,16.0,23.0,4.0,6.0,85.7143,sMCI
+413134,77.2,Male,19,Not Hisp/Latino,White,0.0,3.0,9.0,12.0,25.0,4.0,7.0,100.0,sMCI
+812587,77.2,Male,19,Not Hisp/Latino,White,0.0,2.5,20.33,31.33,23.0,2.0,4.0,80.0,sMCI
+334775,74.3,Male,17,Not Hisp/Latino,White,1.0,3.0,9.0,15.0,28.0,1.0,6.0,100.0,pMCI
+413150,73.7,Male,20,Not Hisp/Latino,Asian,1.0,2.0,17.0,25.0,22.0,3.0,6.0,100.0,sMCI
+334799,75.0,Male,20,Not Hisp/Latino,White,1.0,2.0,14.0,23.0,35.0,4.0,7.0,77.7778,pMCI
+334815,78.3,Female,16,Not Hisp/Latino,White,1.0,1.0,9.0,17.0,43.0,6.0,6.0,54.5455,pMCI
+334823,76.1,Female,16,Not Hisp/Latino,White,1.0,3.0,21.0,31.0,19.0,2.0,4.0,100.0,pMCI
+369561,75.3,Female,15,Hisp/Latino,White,1.0,3.5,17.0,28.0,17.0,1.0,4.0,100.0,pMCI
+334847,63.9,Male,18,Not Hisp/Latino,White,1.0,0.5,5.0,8.0,32.0,4.0,6.0,75.0,sMCI
+298883,78.2,Male,16,Not Hisp/Latino,White,1.0,1.5,13.0,22.0,26.0,6.0,6.0,66.6667,pMCI
+369569,75.7,Male,14,Not Hisp/Latino,White,0.0,1.0,5.0,12.0,28.0,2.0,4.0,66.6667,sMCI
+298891,70.8,Male,20,Not Hisp/Latino,White,2.0,2.5,19.0,31.0,27.0,0.0,5.0,100.0,pMCI
+437861,65.4,Female,16,Not Hisp/Latino,White,0.0,2.0,6.0,13.0,44.0,-1.0,3.0,33.3333,sMCI
+449739,73.7,Male,20,Not Hisp/Latino,Asian,1.0,2.5,26.0,37.0,17.0,2.0,4.0,100.0,sMCI
+356648,77.8,Male,16,Not Hisp/Latino,White,1.0,3.0,11.0,17.0,37.0,2.0,7.0,87.5,pMCI
+383285,79.8,Male,12,Not Hisp/Latino,White,1.0,1.5,10.0,19.0,28.0,5.0,6.0,75.0,pMCI
+356672,82.6,Male,12,Not Hisp/Latino,White,0.0,3.0,14.0,22.0,26.0,2.0,6.0,100.0,sMCI
+356688,74.3,Male,17,Not Hisp/Latino,White,1.0,3.0,9.0,15.0,28.0,1.0,6.0,100.0,pMCI
+397031,78.2,Female,11,Not Hisp/Latino,White,1.0,3.0,16.0,26.0,21.0,4.0,6.0,100.0,sMCI
+356728,79.8,Male,12,Not Hisp/Latino,White,1.0,1.5,12.0,20.0,20.0,3.0,4.0,80.0,pMCI
+763054,66.9,Male,18,Not Hisp/Latino,White,1.0,2.5,15.0,18.0,26.0,3.0,7.0,87.5,sMCI
+812588,75.0,Male,20,Not Hisp/Latino,White,1.0,5.0,24.0,31.0,30.0,2.0,7.0,100.0,pMCI
+334776,70.1,Male,12,Not Hisp/Latino,White,1.0,2.5,16.0,26.0,20.0,1.0,4.0,100.0,sMCI
+413151,77.8,Male,16,Not Hisp/Latino,White,1.0,3.5,4.0,9.0,35.0,2.0,7.0,87.5,pMCI
+413167,79.3,Male,20,Not Hisp/Latino,White,1.0,0.5,10.0,19.0,30.0,0.0,6.0,100.0,sMCI
+366715,79.4,Male,16,Not Hisp/Latino,White,1.0,2.0,7.0,12.0,35.0,4.0,1.0,11.1111,sMCI
+334832,72.9,Female,12,Not Hisp/Latino,White,1.0,4.0,17.0,27.0,19.0,4.0,6.0,100.0,pMCI
+334848,70.8,Male,20,Not Hisp/Latino,White,2.0,3.0,20.0,32.0,20.0,1.0,4.0,100.0,pMCI
+437845,56.5,Male,12,Not Hisp/Latino,White,1.0,3.5,15.0,23.0,23.0,1.0,4.0,100.0,pMCI
+369570,66.9,Male,18,Not Hisp/Latino,White,1.0,2.5,3.0,9.0,33.0,3.0,3.0,37.5,sMCI
+437854,77.8,Female,19,Not Hisp/Latino,White,0.0,4.0,25.0,37.0,21.0,2.0,5.0,100.0,pMCI
+449503,68.3,Male,16,Not Hisp/Latino,White,1.0,6.0,19.0,30.0,30.0,2.0,7.0,100.0,pMCI
+356641,56.5,Male,12,Not Hisp/Latino,White,1.0,2.0,14.0,24.0,26.0,2.0,6.0,100.0,pMCI
+298956,70.9,Female,17,Not Hisp/Latino,Black,1.0,2.0,7.0,14.0,28.0,4.0,4.0,57.1429,sMCI
+356689,70.1,Male,12,Not Hisp/Latino,White,1.0,2.5,16.0,26.0,20.0,1.0,4.0,100.0,sMCI
+356705,78.3,Female,16,Not Hisp/Latino,White,1.0,1.0,9.0,17.0,43.0,6.0,6.0,54.5455,pMCI
+614189,79.3,Male,20,Not Hisp/Latino,White,1.0,2.0,12.0,22.0,33.0,0.0,6.0,100.0,sMCI
+698587,75.7,Male,14,Not Hisp/Latino,White,0.0,0.5,7.0,11.0,36.0,6.0,5.0,55.5556,sMCI
+356730,74.3,Male,17,Not Hisp/Latino,White,1.0,3.0,9.0,15.0,28.0,1.0,6.0,100.0,pMCI
+334761,72.9,Female,12,Not Hisp/Latino,White,1.0,4.0,17.0,27.0,19.0,4.0,6.0,100.0,pMCI
+413144,74.8,Male,12,Not Hisp/Latino,White,2.0,3.5,14.0,26.0,23.0,2.0,5.0,100.0,pMCI
+334785,68.3,Male,16,Not Hisp/Latino,White,1.0,3.0,7.0,17.0,30.0,3.0,8.0,100.0,pMCI
+334801,74.8,Male,12,Not Hisp/Latino,White,2.0,2.5,12.0,23.0,22.0,4.0,6.0,100.0,pMCI
+420852,82.6,Male,12,Not Hisp/Latino,White,0.0,3.5,10.0,19.0,21.0,0.0,4.0,100.0,sMCI
+366716,82.6,Male,12,Not Hisp/Latino,White,0.0,3.5,10.0,19.0,21.0,0.0,4.0,100.0,sMCI
+366724,72.9,Female,12,Not Hisp/Latino,White,1.0,5.0,19.0,31.0,26.0,3.0,5.0,100.0,pMCI
+334825,78.2,Male,16,Not Hisp/Latino,White,1.0,1.5,13.0,22.0,26.0,6.0,6.0,66.6667,pMCI
+334833,69.2,Male,18,Not Hisp/Latino,White,0.0,1.0,9.0,16.0,23.0,4.0,6.0,85.7143,sMCI
+383218,78.1,Male,19,Not Hisp/Latino,White,0.0,1.5,27.0,38.0,18.0,3.0,-1.0,-20.0,pMCI
+449504,82.6,Male,12,Not Hisp/Latino,White,0.0,2.5,15.0,24.0,22.0,2.0,5.0,100.0,sMCI
+383255,72.0,Female,16,Not Hisp/Latino,White,1.0,2.0,20.0,28.0,29.0,1.0,6.0,100.0,pMCI
+471137,68.1,Male,12,Not Hisp/Latino,White,1.0,2.0,17.0,20.0,34.0,3.0,3.0,42.8571,sMCI
+383263,77.8,Male,16,Not Hisp/Latino,White,1.0,3.5,4.0,9.0,35.0,2.0,7.0,87.5,pMCI
+356666,77.8,Female,19,Not Hisp/Latino,White,0.0,2.5,16.0,23.0,29.0,0.0,5.0,83.3333,pMCI
+383287,74.3,Male,17,Not Hisp/Latino,White,1.0,4.0,17.0,26.0,23.0,5.0,7.0,100.0,pMCI
+537841,69.2,Male,18,Not Hisp/Latino,White,0.0,0.5,13.0,19.0,26.0,6.0,7.0,87.5,sMCI
+397025,75.3,Female,15,Hisp/Latino,White,1.0,3.5,17.0,28.0,17.0,1.0,4.0,100.0,pMCI
+397049,63.9,Male,18,Not Hisp/Latino,White,1.0,0.0,9.0,15.0,33.0,4.0,3.0,42.8571,sMCI
+356731,70.1,Male,12,Not Hisp/Latino,White,1.0,2.5,16.0,26.0,20.0,1.0,4.0,100.0,sMCI
+298797,75.7,Male,14,Not Hisp/Latino,White,0.0,1.0,15.0,23.0,23.0,2.0,5.0,100.0,sMCI
+413137,78.1,Male,19,Not Hisp/Latino,White,0.0,3.5,16.0,26.0,21.0,7.0,9.0,100.0,pMCI
+366701,78.2,Female,11,Not Hisp/Latino,White,1.0,3.0,16.0,25.0,34.0,5.0,7.0,77.7778,sMCI
+413169,70.8,Male,20,Not Hisp/Latino,White,2.0,5.5,25.0,38.0,8.0,2.0,3.0,100.0,pMCI
+334810,73.7,Male,20,Not Hisp/Latino,Asian,1.0,3.0,14.0,26.0,16.0,3.0,5.0,100.0,sMCI
+420856,75.0,Male,20,Not Hisp/Latino,White,1.0,2.5,14.0,22.0,32.0,5.0,9.0,100.0,pMCI
+366717,74.8,Male,12,Not Hisp/Latino,White,2.0,3.5,14.0,26.0,23.0,2.0,5.0,100.0,pMCI
+420872,72.9,Female,12,Not Hisp/Latino,White,1.0,7.0,19.0,30.0,9.0,3.0,3.0,100.0,pMCI
+449505,72.0,Female,16,Not Hisp/Latino,White,1.0,1.5,14.0,21.0,27.0,1.0,5.0,100.0,pMCI
+383256,75.0,Male,20,Not Hisp/Latino,White,1.0,2.5,14.0,22.0,32.0,5.0,9.0,100.0,pMCI
+471138,75.3,Female,15,Hisp/Latino,White,1.0,4.5,23.0,34.0,17.0,2.0,2.0,50.0,pMCI
+471146,77.8,Male,16,Not Hisp/Latino,White,1.0,5.5,12.0,17.0,36.0,1.0,7.0,87.5,pMCI
+383280,69.2,Male,18,Not Hisp/Latino,White,0.0,0.5,14.0,19.0,26.0,3.0,6.0,100.0,sMCI
+356667,63.1,Female,14,Not Hisp/Latino,White,2.0,1.5,14.0,25.0,18.0,1.0,4.0,100.0,pMCI
+298950,79.3,Male,20,Not Hisp/Latino,White,1.0,0.5,9.0,15.0,37.0,2.0,3.0,42.8571,sMCI
+383288,70.1,Male,12,Not Hisp/Latino,White,1.0,1.0,24.0,35.0,14.0,3.0,5.0,100.0,sMCI
+356675,78.1,Male,19,Not Hisp/Latino,White,0.0,1.5,27.0,38.0,18.0,3.0,-1.0,-20.0,pMCI
+537842,72.0,Female,16,Not Hisp/Latino,White,1.0,5.5,17.0,27.0,23.0,0.0,4.0,100.0,pMCI
+356691,68.1,Male,12,Not Hisp/Latino,White,1.0,1.0,11.0,19.0,35.0,4.0,7.0,77.7778,sMCI
+356707,60.8,Female,16,Not Hisp/Latino,White,1.0,1.0,10.0,14.0,46.0,5.0,5.0,45.4545,sMCI
+614191,63.9,Male,18,Not Hisp/Latino,White,1.0,0.0,11.0,18.0,33.0,5.0,4.0,50.0,sMCI
+334771,73.7,Male,20,Not Hisp/Latino,Asian,1.0,3.0,14.0,26.0,16.0,3.0,5.0,100.0,sMCI
+356756,79.3,Male,20,Not Hisp/Latino,White,1.0,1.0,5.0,15.0,38.0,4.0,9.0,100.0,sMCI
+812591,77.8,Male,16,Not Hisp/Latino,White,1.0,7.5,17.0,26.0,34.0,5.0,9.0,100.0,pMCI
+413146,65.4,Female,16,Not Hisp/Latino,White,0.0,0.5,9.0,16.0,31.0,3.0,8.0,100.0,sMCI
+334803,78.2,Female,11,Not Hisp/Latino,White,1.0,3.0,16.0,25.0,34.0,5.0,7.0,77.7778,sMCI
+334835,79.8,Male,12,Not Hisp/Latino,White,1.0,1.5,12.0,20.0,20.0,3.0,4.0,80.0,pMCI
+369565,78.2,Female,11,Not Hisp/Latino,White,1.0,3.0,16.0,26.0,21.0,4.0,6.0,100.0,sMCI
+369573,78.2,Male,16,Not Hisp/Latino,White,1.0,2.0,20.0,29.0,32.0,2.0,6.0,85.7143,pMCI
+334859,76.1,Female,16,Not Hisp/Latino,White,1.0,3.0,21.0,31.0,19.0,2.0,4.0,100.0,pMCI
+437865,79.8,Male,12,Not Hisp/Latino,White,1.0,5.0,15.0,26.0,22.0,2.0,4.0,80.0,pMCI
+449506,75.0,Male,20,Not Hisp/Latino,White,1.0,3.5,21.0,31.0,29.0,2.0,7.0,100.0,pMCI
+383249,77.2,Male,19,Not Hisp/Latino,White,0.0,3.0,9.0,12.0,25.0,4.0,7.0,100.0,sMCI
+356636,76.1,Male,20,Not Hisp/Latino,White,1.0,3.0,25.0,38.0,13.0,3.0,3.0,100.0,pMCI
+356644,65.4,Female,16,Not Hisp/Latino,White,0.0,1.5,7.0,14.0,34.0,5.0,9.0,100.0,sMCI
+471139,77.2,Male,19,Not Hisp/Latino,White,0.0,1.5,12.0,22.0,24.0,2.0,4.0,66.6667,sMCI
+298935,71.3,Female,16,Not Hisp/Latino,White,2.0,1.0,16.0,24.0,27.0,2.0,6.0,100.0,pMCI
+383273,78.3,Female,16,Not Hisp/Latino,White,1.0,1.0,7.0,14.0,32.0,2.0,5.0,62.5,pMCI
+356660,60.8,Female,16,Not Hisp/Latino,White,1.0,1.0,10.0,14.0,46.0,5.0,5.0,45.4545,sMCI
+356676,76.1,Male,20,Not Hisp/Latino,White,1.0,3.0,25.0,38.0,13.0,3.0,3.0,100.0,pMCI
+356684,65.4,Female,16,Not Hisp/Latino,White,0.0,1.5,7.0,14.0,34.0,5.0,9.0,100.0,sMCI
+397000,75.7,Male,14,Not Hisp/Latino,White,0.0,0.5,9.0,16.0,30.0,6.0,4.0,50.0,sMCI
+397027,63.1,Female,14,Not Hisp/Latino,White,2.0,1.5,14.0,23.0,19.0,2.0,5.0,100.0,pMCI
+397052,72.5,Male,16,Not Hisp/Latino,White,0.0,2.0,5.0,8.0,37.0,2.0,6.0,85.7143,sMCI
+763059,62.1,Male,20,Not Hisp/Latino,White,1.0,2.0,7.0,9.0,41.0,4.0,4.0,40.0,sMCI
+812583,68.2,Male,16,Not Hisp/Latino,White,1.0,0.0,6.0,8.0,47.0,6.0,1.0,9.090910000000001,sMCI
+334772,62.1,Male,20,Not Hisp/Latino,White,1.0,2.5,5.0,10.0,27.0,5.0,4.0,50.0,sMCI
+298807,70.9,Male,12,Not Hisp/Latino,White,0.0,1.0,19.0,25.0,29.0,3.0,3.0,50.0,sMCI
+413147,55.0,Male,16,Not Hisp/Latino,White,2.0,0.5,6.0,9.0,39.0,3.0,6.0,66.6667,sMCI
+298815,76.6,Male,16,Hisp/Latino,White,1.0,1.5,9.0,14.0,38.0,8.0,4.0,36.3636,sMCI
+356765,74.3,Male,18,Not Hisp/Latino,White,0.0,1.0,10.0,15.0,31.0,4.0,8.0,100.0,sMCI
+298823,78.1,Female,17,Not Hisp/Latino,White,0.0,0.5,7.0,12.0,29.0,4.0,5.0,62.5,sMCI
+413163,81.1,Female,19,Not Hisp/Latino,White,0.0,1.0,9.0,14.0,31.0,5.0,6.0,75.0,pMCI
+298831,74.3,Male,18,Not Hisp/Latino,White,0.0,1.0,10.0,15.0,28.0,6.0,5.0,62.5,sMCI
+366703,85.3,Male,12,Not Hisp/Latino,Black,1.0,1.0,6.0,11.0,34.0,3.0,2.0,33.3333,pMCI
+334804,59.7,Male,15,Not Hisp/Latino,White,2.0,0.5,5.0,10.0,34.0,3.0,4.0,57.1429,sMCI
+420858,62.1,Male,20,Not Hisp/Latino,White,1.0,3.5,4.0,13.0,39.0,5.0,5.0,50.0,sMCI
+298847,74.7,Male,20,Not Hisp/Latino,White,1.0,0.5,6.0,11.0,35.0,4.0,5.0,62.5,pMCI
+366719,59.7,Male,15,Not Hisp/Latino,White,2.0,1.0,3.0,7.0,35.0,4.0,6.0,75.0,sMCI
+366727,66.5,Male,17,Not Hisp/Latino,White,0.0,2.5,9.0,15.0,32.0,2.0,4.0,66.6667,pMCI
+420874,66.5,Male,17,Not Hisp/Latino,White,0.0,2.5,10.0,15.0,33.0,2.0,4.0,57.1429,pMCI
+298863,71.9,Male,18,Not Hisp/Latino,White,2.0,2.0,12.0,22.0,24.0,2.0,3.0,60.0,sMCI
+298871,65.0,Male,14,Not Hisp/Latino,Black,0.0,1.0,4.0,10.0,54.0,6.0,5.0,35.7143,sMCI
+334844,71.6,Female,13,Not Hisp/Latino,Asian,0.0,1.0,10.0,15.0,38.0,7.0,6.0,54.5455,sMCI
+437838,61.6,Female,16,Not Hisp/Latino,White,1.0,2.5,12.0,16.0,40.0,5.0,6.0,60.0,sMCI
+298880,68.0,Female,16,Not Hisp/Latino,White,0.0,0.5,12.0,18.0,35.0,4.0,7.0,77.7778,sMCI
+369574,68.1,Male,14,Not Hisp/Latino,White,1.0,4.0,12.0,19.0,26.0,6.0,8.0,100.0,pMCI
+334860,87.8,Female,12,Not Hisp/Latino,White,0.0,0.5,6.0,12.0,34.0,7.0,2.0,20.0,sMCI
+298904,80.4,Male,20,Not Hisp/Latino,White,0.0,1.0,6.0,8.0,42.0,5.0,0.0,0.0,sMCI
+356629,71.5,Male,14,Hisp/Latino,White,0.0,1.0,9.0,16.0,34.0,6.0,2.0,22.2222,sMCI
+298912,76.6,Male,16,Hisp/Latino,White,1.0,1.5,9.0,14.0,38.0,8.0,4.0,36.3636,sMCI
+298920,73.6,Male,19,Not Hisp/Latino,Asian,1.0,1.5,18.0,29.0,42.0,4.0,2.0,20.0,pMCI
+471140,74.8,Female,19,Not Hisp/Latino,White,0.0,2.0,6.0,8.0,44.0,9.0,9.0,69.2308,sMCI
+383266,71.2,Female,18,Not Hisp/Latino,White,0.0,0.5,6.0,9.0,48.0,7.0,5.0,38.4615,sMCI
+487429,68.0,Male,14,Not Hisp/Latino,White,1.0,1.0,14.0,19.0,43.0,7.0,8.0,66.6667,sMCI
+298944,63.0,Male,15,Not Hisp/Latino,White,1.0,1.0,8.0,11.0,32.0,7.0,4.0,44.4444,sMCI
+487437,63.7,Female,18,Not Hisp/Latino,More than one,0.0,0.5,2.0,2.0,70.0,4.0,0.0,0.0,sMCI
+383298,74.7,Male,20,Not Hisp/Latino,White,1.0,2.0,6.0,12.0,40.0,7.0,9.0,81.8182,pMCI
+298968,76.6,Male,16,Hisp/Latino,White,1.0,1.5,9.0,14.0,38.0,8.0,4.0,36.3636,sMCI
+356693,76.0,Male,16,Not Hisp/Latino,White,1.0,3.5,15.0,27.0,26.0,2.0,6.0,100.0,pMCI
+298981,74.3,Male,18,Not Hisp/Latino,White,0.0,2.0,14.0,21.0,33.0,6.0,5.0,55.5556,sMCI
+298989,74.7,Male,20,Not Hisp/Latino,White,1.0,0.5,6.0,11.0,35.0,4.0,5.0,62.5,pMCI
+356709,85.9,Male,17,Not Hisp/Latino,White,2.0,1.5,11.0,19.0,26.0,2.0,6.0,100.0,pMCI
+298997,63.6,Female,16,Not Hisp/Latino,White,0.0,1.0,4.0,5.0,54.0,4.0,8.0,66.6667,sMCI
+397036,85.3,Male,12,Not Hisp/Latino,Black,1.0,1.0,7.0,15.0,33.0,4.0,2.0,25.0,pMCI
+698591,71.8,Male,17,Not Hisp/Latino,White,0.0,2.0,5.0,7.0,49.0,4.0,5.0,41.6667,sMCI
+299005,75.8,Male,15,Not Hisp/Latino,White,0.0,1.0,5.0,8.0,36.0,4.0,4.0,44.4444,sMCI
+397044,72.6,Male,19,Not Hisp/Latino,White,1.0,1.0,6.0,11.0,41.0,2.0,4.0,44.4444,sMCI
+397053,77.4,Male,18,Not Hisp/Latino,White,1.0,8.0,15.0,27.0,24.0,3.0,7.0,100.0,pMCI
+356742,73.6,Male,19,Not Hisp/Latino,Asian,1.0,3.5,11.0,16.0,36.0,6.0,2.0,22.2222,pMCI
+413132,72.3,Female,12,Not Hisp/Latino,White,2.0,0.5,10.0,13.0,46.0,8.0,5.0,38.4615,sMCI
+812584,68.1,Male,20,Not Hisp/Latino,White,0.0,0.0,5.0,5.0,69.0,5.0,0.0,0.0,sMCI
+334781,76.0,Male,16,Not Hisp/Latino,White,1.0,3.5,15.0,27.0,26.0,2.0,6.0,100.0,pMCI
+413148,66.3,Male,18,Hisp/Latino,White,0.0,0.0,4.0,6.0,47.0,6.0,4.0,33.3333,sMCI
+356766,77.4,Male,18,Not Hisp/Latino,White,1.0,5.5,11.0,20.0,25.0,4.0,6.0,85.7143,pMCI
+413156,70.9,Male,12,Not Hisp/Latino,White,0.0,1.5,8.0,15.0,23.0,5.0,3.0,42.8571,sMCI
+298824,82.7,Female,12,Not Hisp/Latino,White,0.0,0.5,10.0,16.0,41.0,4.0,6.0,60.0,sMCI
+413164,81.4,Female,18,Not Hisp/Latino,White,0.0,0.5,8.0,10.0,51.0,6.0,8.0,57.1429,sMCI
+298832,57.0,Female,20,Not Hisp/Latino,White,2.0,1.0,12.67,16.67,44.0,1.0,5.0,62.5,sMCI
+413172,77.5,Male,12,Not Hisp/Latino,White,0.0,3.0,16.0,25.0,17.0,1.0,3.0,100.0,pMCI
+298840,82.9,Male,12,Not Hisp/Latino,White,2.0,2.0,9.0,15.0,22.0,1.0,1.0,25.0,sMCI
+366712,72.3,Female,12,Not Hisp/Latino,White,2.0,0.5,7.0,10.0,38.0,7.0,7.0,63.6364,sMCI
+420859,59.7,Male,15,Not Hisp/Latino,White,2.0,1.0,3.0,7.0,35.0,4.0,6.0,75.0,sMCI
+298856,77.4,Male,18,Not Hisp/Latino,White,1.0,2.5,8.0,14.0,26.0,2.0,6.0,100.0,pMCI
+420875,64.2,Male,18,Not Hisp/Latino,White,0.0,0.5,10.0,16.0,24.0,4.0,7.0,100.0,sMCI
+366736,75.8,Male,15,Not Hisp/Latino,White,0.0,1.5,8.0,14.0,33.0,0.0,0.0,0.0,sMCI
+420883,74.3,Male,18,Not Hisp/Latino,White,0.0,1.0,10.0,17.0,24.0,5.0,8.0,100.0,sMCI
+298872,56.0,Male,16,Not Hisp/Latino,Black,1.0,3.0,7.0,11.0,49.0,6.0,2.0,16.6667,sMCI
+334845,68.0,Female,16,Not Hisp/Latino,White,0.0,1.0,8.0,15.0,22.0,4.0,6.0,85.7143,sMCI
+437840,66.5,Male,13,Not Hisp/Latino,White,1.0,2.0,5.0,9.0,44.0,6.0,11.0,100.0,sMCI
+334853,82.9,Male,12,Not Hisp/Latino,White,2.0,1.5,10.0,17.0,22.0,2.0,-1.0,-33.3333,sMCI
+369575,63.6,Female,16,Not Hisp/Latino,White,0.0,0.0,4.0,7.0,52.0,11.0,4.0,26.6667,sMCI
+334861,67.4,Male,20,Not Hisp/Latino,White,2.0,0.5,5.0,8.0,33.0,4.0,8.0,100.0,sMCI
+334869,81.9,Male,17,Not Hisp/Latino,White,1.0,1.0,9.0,15.0,31.0,3.0,8.0,100.0,sMCI
+437867,72.9,Female,12,Not Hisp/Latino,White,1.0,1.0,9.0,16.0,30.0,6.0,8.0,100.0,sMCI
+298905,83.9,Female,12,Not Hisp/Latino,White,1.0,1.0,13.0,22.0,30.0,5.0,7.0,87.5,sMCI
+449737,71.8,Male,17,Not Hisp/Latino,White,0.0,0.0,6.0,11.0,39.0,5.0,4.0,40.0,sMCI
+356646,55.0,Male,16,Not Hisp/Latino,White,2.0,2.0,6.0,8.0,42.0,5.0,3.0,30.0,sMCI
+471141,62.5,Male,18,Not Hisp/Latino,White,1.0,1.0,10.0,16.0,31.0,3.0,3.0,50.0,sMCI
+471149,81.0,Male,20,Not Hisp/Latino,White,0.0,0.5,6.0,13.0,41.0,7.0,5.0,50.0,sMCI
+298937,77.4,Male,18,Not Hisp/Latino,White,1.0,2.5,8.0,14.0,26.0,2.0,6.0,100.0,pMCI
+298945,71.6,Female,13,Not Hisp/Latino,Asian,0.0,1.0,10.0,15.0,38.0,7.0,6.0,54.5455,sMCI
+383283,71.8,Male,17,Not Hisp/Latino,White,0.0,0.0,5.0,11.0,37.0,4.0,4.0,44.4444,sMCI
+501819,80.2,Female,14,Hisp/Latino,White,0.0,5.5,13.0,22.0,14.0,1.0,3.0,60.0,pMCI
+537845,70.5,Female,16,Not Hisp/Latino,White,0.0,0.0,5.0,9.0,44.0,3.0,2.0,22.2222,sMCI
+614178,62.5,Male,18,Not Hisp/Latino,White,1.0,0.5,12.0,19.0,28.0,6.0,3.0,37.5,sMCI
+298982,57.0,Female,20,Not Hisp/Latino,White,2.0,1.0,5.0,7.0,47.0,5.0,9.0,75.0,sMCI
+614186,71.6,Female,13,Not Hisp/Latino,Asian,0.0,1.5,8.0,10.0,41.0,7.0,8.0,80.0,sMCI
+298990,77.4,Male,18,Not Hisp/Latino,White,1.0,4.5,8.0,13.0,33.0,1.0,7.0,100.0,pMCI
+698584,74.8,Female,19,Not Hisp/Latino,White,0.0,1.5,9.0,13.0,34.0,4.0,5.0,55.5556,sMCI
+299006,63.7,Female,18,Not Hisp/Latino,More than one,0.0,1.0,5.0,6.0,69.0,6.0,0.0,0.0,sMCI
+763052,67.4,Male,20,Not Hisp/Latino,White,2.0,0.5,2.0,4.0,36.0,3.0,4.0,50.0,sMCI
+334758,72.8,Male,16,Hisp/Latino,White,0.0,1.0,3.0,7.0,35.0,4.0,7.0,77.7778,sMCI
+786093,59.7,Male,15,Not Hisp/Latino,White,2.0,0.5,5.0,10.0,21.0,3.0,4.0,80.0,sMCI
+298801,87.8,Female,12,Not Hisp/Latino,White,0.0,0.5,5.0,10.0,44.0,9.0,4.0,30.7692,sMCI
+356751,71.9,Male,18,Not Hisp/Latino,White,2.0,3.0,13.0,23.0,20.0,2.0,5.0,100.0,sMCI
+298809,61.9,Female,12,Not Hisp/Latino,White,2.0,0.5,11.0,17.0,29.0,4.0,8.0,100.0,sMCI
+334782,71.0,Male,18,Not Hisp/Latino,White,1.0,1.5,9.0,10.0,40.0,7.0,4.0,36.3636,sMCI
+413149,64.2,Male,18,Not Hisp/Latino,White,0.0,0.5,10.0,16.0,24.0,4.0,7.0,100.0,sMCI
+356767,82.3,Female,14,Not Hisp/Latino,White,0.0,0.5,5.0,9.0,25.0,1.0,3.0,60.0,pMCI
+298825,72.7,Male,14,Not Hisp/Latino,White,1.0,0.5,8.0,15.0,25.0,0.0,1.0,25.0,sMCI
+413165,71.6,Female,13,Not Hisp/Latino,Asian,0.0,1.5,8.0,14.0,31.0,5.0,7.0,87.5,sMCI
+298833,72.9,Female,12,Not Hisp/Latino,White,1.0,1.0,5.0,9.0,46.0,7.0,2.0,18.1818,sMCI
+366721,76.0,Male,16,Not Hisp/Latino,White,1.0,3.5,15.0,27.0,26.0,2.0,6.0,100.0,pMCI
+334822,64.2,Male,18,Not Hisp/Latino,White,0.0,2.0,9.0,16.0,22.0,4.0,2.0,33.3333,sMCI
+298857,73.1,Male,20,Not Hisp/Latino,White,0.0,1.0,6.0,10.0,46.0,6.0,-1.0,-9.090910000000001,sMCI
+366737,63.7,Female,18,Not Hisp/Latino,More than one,0.0,0.5,4.33,5.33,68.0,6.0,0.0,0.0,sMCI
+420884,57.0,Female,20,Not Hisp/Latino,White,2.0,0.5,3.0,6.0,49.0,7.0,11.0,91.6667,sMCI
+298873,77.6,Female,17,Not Hisp/Latino,Black,0.0,1.0,7.0,14.0,37.0,7.0,-4.0,-36.3636,sMCI
+437841,77.5,Female,14,Not Hisp/Latino,White,0.0,3.0,14.0,22.0,29.0,3.0,4.0,57.1429,sMCI
+334854,66.5,Male,17,Not Hisp/Latino,White,0.0,2.5,8.0,13.0,30.0,3.0,6.0,85.7143,pMCI
+383236,55.0,Male,16,Not Hisp/Latino,White,2.0,2.0,6.0,8.0,42.0,5.0,3.0,30.0,sMCI
+298906,77.5,Male,12,Not Hisp/Latino,White,0.0,1.0,8.0,15.0,20.0,3.0,2.0,40.0,pMCI
+449509,59.7,Male,15,Not Hisp/Latino,White,2.0,0.5,10.0,14.0,29.0,2.0,3.0,50.0,sMCI
+356639,61.7,Male,16,Not Hisp/Latino,White,0.0,1.0,4.0,5.0,65.0,7.0,1.0,6.66667,sMCI
+298922,83.0,Male,18,Not Hisp/Latino,White,0.0,2.5,7.0,11.0,30.0,6.0,9.0,100.0,sMCI
+383260,55.0,Male,16,Not Hisp/Latino,White,2.0,0.5,6.0,9.0,39.0,3.0,6.0,66.6667,sMCI
+356647,66.3,Male,18,Hisp/Latino,White,0.0,0.0,5.0,7.0,60.0,6.0,3.0,21.4286,sMCI
+298930,82.9,Male,12,Not Hisp/Latino,White,2.0,1.5,10.0,17.0,22.0,2.0,-1.0,-33.3333,sMCI
+471150,87.8,Female,13,Not Hisp/Latino,White,0.0,1.5,8.0,13.0,40.0,5.0,6.0,60.0,sMCI
+298938,73.1,Male,20,Not Hisp/Latino,White,0.0,1.0,6.0,10.0,46.0,6.0,-1.0,-9.090910000000001,sMCI
+298946,68.0,Female,16,Not Hisp/Latino,White,0.0,1.0,8.0,15.0,22.0,4.0,6.0,85.7143,sMCI
+501823,62.1,Male,20,Not Hisp/Latino,White,1.0,2.0,10.0,17.0,23.0,2.0,2.0,33.3333,sMCI
+298954,74.6,Male,18,Not Hisp/Latino,White,0.0,0.5,7.0,13.0,35.0,4.0,5.0,62.5,sMCI
+383292,76.0,Male,16,Not Hisp/Latino,White,1.0,1.5,15.0,27.0,20.0,2.0,5.0,100.0,pMCI
+537831,81.3,Female,18,Not Hisp/Latino,White,0.0,0.5,11.0,17.0,43.0,6.0,7.0,63.6364,sMCI
+298962,87.8,Female,12,Not Hisp/Latino,White,0.0,0.5,6.0,12.0,34.0,7.0,2.0,20.0,sMCI
+356687,62.1,Male,20,Not Hisp/Latino,White,1.0,2.5,5.0,10.0,27.0,5.0,4.0,50.0,sMCI
+537846,87.8,Female,12,Not Hisp/Latino,White,0.0,1.5,13.0,22.0,25.0,3.0,5.0,71.4286,sMCI
+614179,82.2,Male,17,Not Hisp/Latino,White,1.0,0.0,4.0,7.0,39.0,6.0,3.0,27.2727,sMCI
+298983,72.9,Female,12,Not Hisp/Latino,White,1.0,1.0,5.0,9.0,46.0,7.0,2.0,18.1818,sMCI
+614187,68.0,Female,16,Not Hisp/Latino,White,0.0,1.5,10.0,16.0,24.0,7.0,5.0,62.5,sMCI
+298991,73.1,Male,20,Not Hisp/Latino,White,0.0,2.5,4.0,6.0,30.0,4.0,0.0,0.0,sMCI
+397030,71.5,Male,13,Not Hisp/Latino,White,2.0,8.0,16.0,25.0,28.0,5.0,8.0,100.0,sMCI
+698585,68.0,Male,14,Not Hisp/Latino,White,1.0,3.0,11.0,16.0,41.0,5.0,5.0,50.0,sMCI
+397038,87.8,Female,12,Not Hisp/Latino,White,0.0,0.5,8.0,14.0,34.0,8.0,3.0,27.2727,sMCI
+698593,67.6,Female,14,Not Hisp/Latino,White,1.0,1.5,11.0,17.0,35.0,2.0,7.0,100.0,sMCI
+299007,68.5,Male,18,Not Hisp/Latino,White,0.0,0.5,8.0,13.0,35.0,2.0,3.0,37.5,sMCI
+356727,67.6,Female,14,Not Hisp/Latino,White,1.0,1.0,13.0,19.0,28.0,4.0,5.0,71.4286,sMCI
+356736,81.3,Female,18,Not Hisp/Latino,White,0.0,0.5,5.0,7.0,35.0,4.0,7.0,77.7778,sMCI
+763062,63.6,Female,16,Not Hisp/Latino,White,0.0,1.0,3.0,4.0,58.0,9.0,4.0,28.5714,sMCI
+298802,82.2,Male,17,Not Hisp/Latino,White,1.0,0.5,8.0,11.0,30.0,9.0,5.0,45.4545,sMCI
+413142,61.7,Male,16,Not Hisp/Latino,White,0.0,1.0,5.0,7.0,59.0,8.0,0.0,0.0,sMCI
+356760,74.6,Male,18,Not Hisp/Latino,White,0.0,0.5,7.0,13.0,35.0,4.0,5.0,62.5,sMCI
+845684,74.6,Male,18,Not Hisp/Latino,White,0.0,1.5,10.0,18.0,32.0,2.0,7.0,100.0,sMCI
+366685,80.2,Female,14,Hisp/Latino,White,0.0,2.0,15.0,22.0,16.0,3.0,4.0,100.0,pMCI
+334791,85.3,Male,12,Not Hisp/Latino,Black,1.0,1.0,6.0,11.0,34.0,3.0,2.0,33.3333,pMCI
+413166,68.0,Female,16,Not Hisp/Latino,White,0.0,2.5,15.0,22.0,24.0,3.0,5.0,100.0,sMCI
+334807,85.9,Male,17,Not Hisp/Latino,White,2.0,1.5,11.0,19.0,26.0,2.0,6.0,100.0,pMCI
+420850,63.8,Female,12,Not Hisp/Latino,White,1.0,0.5,3.0,7.0,40.0,4.0,5.0,50.0,sMCI
+366722,61.9,Female,12,Not Hisp/Latino,White,2.0,1.0,7.0,13.0,33.0,2.0,7.0,100.0,sMCI
+420869,61.9,Female,12,Not Hisp/Latino,White,2.0,0.5,11.0,17.0,37.0,3.0,9.0,100.0,sMCI
+334831,72.8,Male,16,Hisp/Latino,White,0.0,1.0,3.0,7.0,35.0,4.0,7.0,77.7778,sMCI
+334839,82.2,Male,17,Not Hisp/Latino,White,1.0,0.5,5.0,7.0,39.0,5.0,4.0,40.0,sMCI
+420885,63.7,Female,18,Not Hisp/Latino,More than one,0.0,0.0,2.0,2.0,66.0,6.0,0.0,0.0,sMCI
+437842,82.4,Male,12,Not Hisp/Latino,White,0.0,3.0,8.0,13.0,31.0,4.0,5.0,71.4286,sMCI
+334855,61.9,Female,12,Not Hisp/Latino,White,2.0,0.5,11.0,17.0,29.0,4.0,8.0,100.0,sMCI
+437853,85.9,Male,17,Not Hisp/Latino,White,2.0,2.0,8.0,16.0,36.0,5.0,10.0,100.0,pMCI
+334863,83.4,Female,20,Hisp/Latino,White,0.0,0.5,3.0,7.0,36.0,5.0,6.0,66.6667,pMCI
+449502,72.3,Female,12,Not Hisp/Latino,White,2.0,0.5,8.0,13.0,40.0,5.0,3.0,30.0,sMCI
+298907,67.4,Male,20,Not Hisp/Latino,White,2.0,0.5,6.0,8.0,39.0,5.0,6.0,54.5455,sMCI
+449510,77.6,Female,13,Not Hisp/Latino,White,1.0,0.0,17.0,25.0,36.0,4.0,6.0,66.6667,sMCI
+356640,68.0,Male,14,Not Hisp/Latino,White,1.0,1.5,16.0,24.0,39.0,5.0,4.0,40.0,sMCI
+298923,74.3,Male,18,Not Hisp/Latino,White,0.0,2.0,14.0,21.0,33.0,6.0,5.0,55.5556,sMCI
+471143,55.0,Male,16,Not Hisp/Latino,White,2.0,3.5,7.0,8.0,40.0,5.0,4.0,36.3636,sMCI
+298931,75.8,Male,15,Not Hisp/Latino,White,0.0,1.0,5.0,8.0,36.0,4.0,4.0,44.4444,sMCI
+471151,73.1,Male,20,Not Hisp/Latino,White,0.0,1.5,2.0,3.0,35.0,10.0,2.0,15.3846,sMCI
+298939,65.5,Male,13,Not Hisp/Latino,White,0.0,1.5,12.0,18.0,20.0,5.0,2.0,33.3333,sMCI
+487432,71.8,Male,17,Not Hisp/Latino,White,0.0,2.0,2.0,3.0,44.0,7.0,7.0,58.3333,sMCI
+298947,82.3,Female,14,Not Hisp/Latino,White,0.0,0.5,6.0,10.0,27.0,4.0,6.0,85.7143,pMCI
+501824,74.7,Male,20,Not Hisp/Latino,White,1.0,5.0,7.0,14.0,31.0,4.0,8.0,100.0,pMCI
+298955,71.2,Female,18,Not Hisp/Latino,White,0.0,0.5,2.0,5.0,47.0,7.0,2.0,15.3846,sMCI
+383293,70.5,Female,16,Not Hisp/Latino,White,0.0,1.0,6.0,9.0,37.0,5.0,1.0,11.1111,sMCI
+356680,75.8,Female,11,Not Hisp/Latino,White,0.0,1.5,8.0,19.0,45.0,9.0,5.0,38.4615,sMCI
+298963,83.9,Female,12,Not Hisp/Latino,White,1.0,2.0,18.0,28.0,22.0,2.0,6.0,100.0,sMCI
+383301,76.0,Female,14,Not Hisp/Latino,Black,0.0,2.0,7.0,13.0,20.0,2.0,3.0,60.0,sMCI
+537847,72.9,Female,12,Not Hisp/Latino,White,1.0,2.5,11.0,17.0,18.0,2.0,5.0,100.0,sMCI
+397008,77.0,Male,16,Not Hisp/Latino,White,1.0,1.5,5.0,8.0,37.0,5.0,5.0,50.0,sMCI
+614180,80.4,Male,20,Not Hisp/Latino,White,0.0,0.5,9.0,11.0,32.0,6.0,4.0,44.4444,sMCI
+298984,72.6,Male,19,Not Hisp/Latino,White,1.0,1.0,6.0,9.0,46.0,5.0,5.0,45.4545,sMCI
+298992,65.5,Male,13,Not Hisp/Latino,White,0.0,0.5,14.0,20.0,17.0,1.0,3.0,100.0,sMCI
+299000,77.5,Male,12,Not Hisp/Latino,White,0.0,1.5,15.0,23.0,21.0,0.0,4.0,100.0,pMCI
+397039,82.2,Male,17,Not Hisp/Latino,White,1.0,0.5,6.0,8.0,37.0,7.0,1.0,10.0,sMCI
+299008,77.4,Male,18,Not Hisp/Latino,White,1.0,4.5,8.0,13.0,33.0,1.0,7.0,100.0,pMCI
+356745,83.0,Male,18,Not Hisp/Latino,White,0.0,2.5,7.0,11.0,30.0,6.0,9.0,100.0,sMCI
+786095,77.6,Female,13,Not Hisp/Latino,White,1.0,1.5,8.0,16.0,29.0,6.0,7.0,70.0,sMCI
+413135,74.8,Female,19,Not Hisp/Latino,White,0.0,2.0,6.0,9.0,29.0,5.0,9.0,100.0,sMCI
+298803,80.4,Male,20,Not Hisp/Latino,White,0.0,0.5,10.0,12.0,29.0,5.0,3.0,33.3333,sMCI
+356753,71.6,Female,13,Not Hisp/Latino,Asian,0.0,1.0,10.0,15.0,38.0,7.0,6.0,54.5455,sMCI
+356761,72.5,Male,16,Not Hisp/Latino,White,0.0,1.5,6.0,10.0,42.0,4.0,3.0,30.0,sMCI
+845685,63.6,Female,16,Not Hisp/Latino,White,0.0,1.0,3.0,4.0,58.0,9.0,4.0,28.5714,sMCI
+298827,73.6,Male,19,Not Hisp/Latino,Asian,1.0,1.5,18.0,29.0,42.0,4.0,2.0,20.0,pMCI
+334800,71.5,Male,13,Not Hisp/Latino,White,2.0,2.0,12.0,20.0,26.0,6.0,6.0,66.6667,sMCI
+298835,81.9,Male,17,Not Hisp/Latino,White,1.0,1.5,12.0,19.0,37.0,9.0,5.0,45.4545,sMCI
+298843,75.8,Male,15,Not Hisp/Latino,White,0.0,0.0,5.0,9.0,31.0,5.0,7.0,77.7778,sMCI
+298859,65.5,Male,13,Not Hisp/Latino,White,0.0,1.5,12.0,18.0,20.0,5.0,2.0,33.3333,sMCI
+366731,67.6,Female,14,Not Hisp/Latino,White,1.0,1.0,12.0,19.0,35.0,5.0,2.0,22.2222,sMCI
+420878,67.6,Female,14,Not Hisp/Latino,White,1.0,1.0,14.0,21.0,33.0,3.0,1.0,14.2857,sMCI
+334840,80.4,Male,20,Not Hisp/Latino,White,0.0,1.0,6.0,8.0,42.0,5.0,0.0,0.0,sMCI
+420886,68.1,Male,14,Not Hisp/Latino,White,1.0,1.5,15.0,20.0,36.0,4.0,3.0,37.5,pMCI
+298875,71.8,Male,17,Not Hisp/Latino,White,0.0,2.0,9.33,11.33,40.0,5.0,5.0,50.0,sMCI
+369562,74.8,Female,19,Not Hisp/Latino,White,0.0,2.0,6.0,9.0,29.0,5.0,9.0,100.0,sMCI
+298884,67.6,Female,14,Not Hisp/Latino,White,1.0,1.0,13.0,19.0,28.0,4.0,5.0,71.4286,sMCI
+334856,81.9,Male,17,Not Hisp/Latino,White,1.0,1.5,12.0,19.0,37.0,9.0,5.0,45.4545,sMCI
+298892,74.6,Male,18,Not Hisp/Latino,White,0.0,0.5,7.0,15.0,33.0,4.0,6.0,75.0,sMCI
+334864,72.9,Female,12,Not Hisp/Latino,White,1.0,1.0,7.0,8.0,33.0,6.0,3.0,33.3333,sMCI
+298908,70.9,Male,12,Not Hisp/Latino,White,0.0,2.0,6.0,10.0,27.0,5.0,6.0,75.0,sMCI
+356633,74.8,Female,19,Not Hisp/Latino,White,0.0,1.5,11.0,17.0,37.0,6.0,7.0,70.0,sMCI
+298916,81.0,Male,20,Not Hisp/Latino,White,0.0,0.5,8.0,15.0,41.0,5.0,2.0,20.0,sMCI
+383254,61.7,Male,16,Not Hisp/Latino,White,0.0,1.0,5.0,7.0,59.0,8.0,0.0,0.0,sMCI
+449740,76.0,Female,14,Not Hisp/Latino,Black,0.0,2.0,10.0,17.0,39.0,7.0,8.0,72.7273,sMCI
+298924,57.0,Female,20,Not Hisp/Latino,White,2.0,1.0,5.0,7.0,47.0,5.0,9.0,75.0,sMCI
+383262,77.6,Female,13,Not Hisp/Latino,White,1.0,0.5,9.0,15.0,35.0,9.0,3.0,27.2727,sMCI
+471144,66.3,Male,18,Hisp/Latino,White,0.0,0.5,3.0,4.0,47.0,1.0,4.0,33.3333,sMCI
+298932,68.1,Male,14,Not Hisp/Latino,White,1.0,1.5,10.0,16.0,34.0,4.0,3.0,30.0,pMCI
+471152,82.3,Female,14,Not Hisp/Latino,White,0.0,2.0,15.0,21.0,21.0,1.0,0.0,0.0,pMCI
+298940,71.9,Male,18,Not Hisp/Latino,White,2.0,2.0,12.0,22.0,24.0,2.0,3.0,60.0,sMCI
+356665,72.3,Female,12,Not Hisp/Latino,White,2.0,0.5,7.0,10.0,38.0,7.0,7.0,63.6364,sMCI
+487433,83.0,Male,18,Not Hisp/Latino,White,0.0,2.5,11.0,18.0,32.0,4.0,7.0,87.5,sMCI
+298948,63.6,Female,16,Not Hisp/Latino,White,0.0,1.0,4.0,5.0,54.0,4.0,8.0,66.6667,sMCI
+356673,74.8,Female,19,Not Hisp/Latino,White,0.0,1.5,11.0,17.0,37.0,6.0,7.0,70.0,sMCI
+501825,63.0,Male,15,Not Hisp/Latino,White,1.0,2.0,8.0,11.0,39.0,6.0,8.0,72.7273,sMCI
+383294,71.0,Male,18,Not Hisp/Latino,White,1.0,2.0,5.0,8.0,43.0,7.0,5.0,45.4545,sMCI
+298964,77.5,Male,12,Not Hisp/Latino,White,0.0,1.5,15.0,23.0,21.0,0.0,4.0,100.0,pMCI
+383302,63.0,Male,15,Not Hisp/Latino,White,1.0,3.0,5.0,9.0,35.0,9.0,8.0,72.7273,sMCI
+537848,68.1,Male,14,Not Hisp/Latino,White,1.0,1.5,15.0,20.0,36.0,4.0,3.0,37.5,pMCI
+298977,87.8,Female,13,Not Hisp/Latino,White,0.0,1.0,11.0,16.0,38.0,6.0,4.0,40.0,sMCI
+298985,75.8,Male,15,Not Hisp/Latino,White,0.0,1.0,5.0,8.0,36.0,4.0,4.0,44.4444,sMCI
+299001,72.5,Male,16,Not Hisp/Latino,White,0.0,3.0,4.0,8.0,37.0,6.0,5.0,50.0,sMCI
+397040,80.4,Male,20,Not Hisp/Latino,White,0.0,0.5,4.0,5.0,31.0,7.0,4.0,40.0,sMCI
+698595,83.0,Male,18,Not Hisp/Latino,White,0.0,1.5,11.0,18.0,21.0,3.0,4.0,66.6667,sMCI
+299009,73.1,Male,20,Not Hisp/Latino,White,0.0,2.5,4.0,6.0,30.0,4.0,0.0,0.0,sMCI
+356738,82.2,Male,17,Not Hisp/Latino,White,1.0,0.5,5.0,7.0,39.0,5.0,4.0,40.0,sMCI
+356746,72.6,Male,19,Not Hisp/Latino,White,1.0,1.0,6.0,9.0,46.0,5.0,5.0,45.4545,sMCI
+786096,76.0,Male,16,Not Hisp/Latino,White,1.0,5.0,19.0,32.0,20.0,-1.0,3.0,100.0,pMCI
+413136,62.5,Male,18,Not Hisp/Latino,White,1.0,2.0,11.0,17.0,30.0,2.0,5.0,71.4286,sMCI
+298804,83.9,Female,12,Not Hisp/Latino,White,1.0,1.0,13.0,22.0,30.0,5.0,7.0,87.5,sMCI
+356754,68.0,Female,16,Not Hisp/Latino,White,0.0,1.0,8.0,15.0,22.0,4.0,6.0,85.7143,sMCI
+356762,81.0,Male,20,Not Hisp/Latino,White,0.0,0.5,14.0,21.0,42.0,4.0,4.0,36.3636,sMCI
+880417,71.5,Male,13,Not Hisp/Latino,White,2.0,4.0,14.0,26.0,28.0,5.0,-2.0,-28.5714,sMCI
+298820,81.0,Male,20,Not Hisp/Latino,White,0.0,0.5,8.0,15.0,41.0,5.0,2.0,20.0,sMCI
+366689,63.8,Female,18,Not Hisp/Latino,Black,1.0,0.5,2.0,5.0,56.0,7.0,5.0,33.3333,sMCI
+366700,61.7,Male,16,Not Hisp/Latino,White,0.0,1.0,5.0,7.0,59.0,8.0,0.0,0.0,sMCI
+298836,72.6,Male,19,Not Hisp/Latino,White,1.0,1.5,8.0,11.0,38.0,3.0,6.0,66.6667,sMCI
+298844,63.7,Female,18,Not Hisp/Latino,More than one,0.0,0.5,1.0,2.0,59.0,6.0,0.0,0.0,sMCI
+334841,70.9,Male,12,Not Hisp/Latino,White,0.0,2.0,6.0,10.0,27.0,5.0,6.0,75.0,sMCI
+420887,68.5,Male,18,Not Hisp/Latino,White,0.0,0.5,6.0,11.0,34.0,4.0,7.0,77.7778,sMCI
+298876,64.2,Male,18,Not Hisp/Latino,White,0.0,2.0,9.0,16.0,22.0,4.0,2.0,33.3333,sMCI
+369563,62.5,Male,18,Not Hisp/Latino,White,1.0,2.0,11.0,17.0,30.0,2.0,5.0,71.4286,sMCI
+334849,74.6,Male,18,Not Hisp/Latino,White,0.0,0.5,7.0,13.0,35.0,4.0,5.0,62.5,sMCI
+298885,82.3,Female,14,Not Hisp/Latino,White,0.0,1.0,7.0,11.0,26.0,4.0,6.0,85.7143,pMCI
+334857,71.5,Male,13,Not Hisp/Latino,White,2.0,2.0,12.0,20.0,26.0,6.0,6.0,66.6667,sMCI
+334865,68.1,Male,14,Not Hisp/Latino,White,1.0,1.5,15.0,20.0,36.0,4.0,3.0,37.5,pMCI
+356634,62.5,Male,18,Not Hisp/Latino,White,1.0,2.0,7.0,14.0,18.0,0.0,4.0,100.0,sMCI
+449512,85.3,Male,12,Not Hisp/Latino,Black,1.0,0.5,6.0,13.0,24.0,2.0,4.0,57.1429,pMCI
+298917,87.8,Female,13,Not Hisp/Latino,White,0.0,1.0,11.0,16.0,38.0,6.0,4.0,40.0,sMCI
+298925,72.9,Female,12,Not Hisp/Latino,White,1.0,1.0,5.0,9.0,46.0,7.0,2.0,18.1818,sMCI
+471145,76.0,Male,16,Not Hisp/Latino,White,1.0,3.5,13.0,25.0,25.0,-1.0,4.0,100.0,pMCI
+298933,68.5,Male,18,Not Hisp/Latino,White,0.0,1.0,5.0,9.0,40.0,4.0,3.0,30.0,sMCI
+471153,63.6,Female,16,Not Hisp/Latino,White,0.0,0.0,6.0,8.0,59.0,4.0,3.0,21.4286,sMCI
+487434,74.3,Male,18,Not Hisp/Latino,White,0.0,1.0,13.0,22.0,22.0,0.0,4.0,100.0,sMCI
+356674,62.5,Male,18,Not Hisp/Latino,White,1.0,2.0,7.0,14.0,18.0,0.0,4.0,100.0,sMCI
+298965,67.4,Male,20,Not Hisp/Latino,White,2.0,0.5,5.0,8.0,33.0,4.0,8.0,100.0,sMCI
+356690,59.7,Male,15,Not Hisp/Latino,White,2.0,0.5,5.0,10.0,34.0,3.0,4.0,57.1429,sMCI
+614168,77.0,Male,16,Not Hisp/Latino,White,1.0,0.0,6.0,9.0,34.0,4.0,2.0,25.0,sMCI
+298978,82.3,Female,15,Not Hisp/Latino,White,0.0,1.0,13.0,17.0,30.0,2.0,6.0,85.7143,sMCI
+298986,63.7,Female,18,Not Hisp/Latino,More than one,0.0,0.5,1.0,2.0,59.0,6.0,0.0,0.0,sMCI
+298994,71.9,Male,18,Not Hisp/Latino,White,2.0,2.0,12.0,22.0,24.0,2.0,3.0,60.0,sMCI
+299002,78.1,Female,17,Not Hisp/Latino,White,0.0,0.5,7.0,10.0,37.0,6.0,7.0,70.0,sMCI
+397041,67.4,Male,20,Not Hisp/Latino,White,2.0,0.5,2.0,3.0,45.0,8.0,10.0,83.3333,sMCI
+356722,71.8,Male,17,Not Hisp/Latino,White,0.0,2.0,2.0,5.0,44.0,4.0,7.0,63.6364,sMCI
+698596,57.0,Female,20,Not Hisp/Latino,White,2.0,0.5,8.0,9.0,59.0,7.0,3.0,20.0,sMCI
+299010,76.0,Female,14,Not Hisp/Latino,Black,0.0,0.0,4.0,10.0,20.0,2.0,4.0,80.0,sMCI
+298789,81.3,Female,18,Not Hisp/Latino,White,0.0,0.5,9.0,14.0,37.0,3.0,4.0,50.0,sMCI
+356739,80.4,Male,20,Not Hisp/Latino,White,0.0,1.0,6.0,8.0,42.0,5.0,0.0,0.0,sMCI
+356747,82.9,Male,12,Not Hisp/Latino,White,2.0,1.5,7.0,13.0,24.0,4.0,6.0,100.0,sMCI
+786097,72.9,Female,12,Not Hisp/Latino,White,1.0,3.0,12.0,18.0,19.0,6.0,6.0,100.0,sMCI
+298805,77.5,Male,12,Not Hisp/Latino,White,0.0,1.0,8.0,15.0,20.0,3.0,2.0,40.0,pMCI
+334778,77.6,Female,13,Not Hisp/Latino,White,1.0,0.5,9.0,15.0,35.0,9.0,3.0,27.2727,sMCI
+413145,75.8,Female,11,Not Hisp/Latino,White,0.0,2.0,4.0,10.0,36.0,6.0,4.0,40.0,sMCI
+298813,83.4,Female,20,Hisp/Latino,White,0.0,2.5,7.0,9.0,41.0,3.0,3.0,37.5,pMCI
+356763,78.1,Female,17,Not Hisp/Latino,White,0.0,0.5,7.0,9.0,41.0,5.0,1.0,10.0,sMCI
+880418,55.0,Male,16,Not Hisp/Latino,White,2.0,2.5,8.0,12.0,52.0,6.0,4.0,33.3333,sMCI
+298821,87.8,Female,13,Not Hisp/Latino,White,0.0,1.0,13.0,21.0,32.0,4.0,4.0,50.0,sMCI
+413161,68.3,Male,16,Not Hisp/Latino,White,1.0,3.0,8.0,11.0,33.0,1.0,-1.0,-14.2857,sMCI
+334802,75.8,Female,11,Not Hisp/Latino,White,0.0,1.5,8.0,19.0,45.0,9.0,5.0,38.4615,sMCI
+298845,68.1,Male,14,Not Hisp/Latino,White,1.0,1.5,10.0,16.0,34.0,4.0,3.0,30.0,pMCI
+298853,66.5,Male,17,Not Hisp/Latino,White,0.0,2.5,8.0,13.0,30.0,3.0,6.0,85.7143,pMCI
+334826,67.6,Female,14,Not Hisp/Latino,White,1.0,1.0,13.0,19.0,28.0,4.0,5.0,71.4286,sMCI
+366733,83.0,Male,18,Not Hisp/Latino,White,0.0,3.0,8.0,13.0,37.0,7.0,8.0,80.0,sMCI
+334834,71.8,Male,17,Not Hisp/Latino,White,0.0,2.0,2.0,5.0,44.0,4.0,7.0,63.6364,sMCI
+420880,70.5,Female,16,Not Hisp/Latino,White,0.0,0.5,6.0,9.0,45.0,5.0,4.0,36.3636,sMCI
+369556,71.5,Male,14,Hisp/Latino,White,0.0,1.5,13.0,19.0,19.0,2.0,4.0,100.0,sMCI
+420888,82.3,Female,14,Not Hisp/Latino,White,0.0,0.5,9.0,15.0,30.0,6.0,5.0,50.0,pMCI
+298886,63.6,Female,16,Not Hisp/Latino,White,0.0,2.5,6.0,8.0,64.0,3.0,6.0,42.8571,sMCI
+298894,70.5,Female,16,Not Hisp/Latino,White,0.0,0.5,10.0,14.0,36.0,7.0,4.0,36.3636,sMCI
+383222,77.0,Male,16,Not Hisp/Latino,White,1.0,1.5,5.0,8.0,37.0,5.0,5.0,50.0,sMCI
+437864,62.1,Male,20,Not Hisp/Latino,White,1.0,2.0,7.0,9.0,41.0,4.0,4.0,40.0,sMCI
+298910,83.4,Female,20,Hisp/Latino,White,0.0,2.5,7.0,9.0,41.0,3.0,3.0,37.5,pMCI
+449732,80.2,Female,14,Hisp/Latino,White,0.0,2.0,11.0,18.0,18.0,4.0,4.0,100.0,pMCI
+298918,82.3,Female,15,Not Hisp/Latino,White,0.0,1.0,13.0,17.0,30.0,2.0,6.0,85.7143,sMCI
+298926,81.9,Male,17,Not Hisp/Latino,White,1.0,1.5,12.0,19.0,37.0,9.0,5.0,45.4545,sMCI
+487427,61.6,Female,16,Not Hisp/Latino,White,1.0,2.5,10.0,16.0,38.0,5.0,6.0,60.0,sMCI
+298942,76.0,Female,14,Not Hisp/Latino,Black,0.0,2.0,9.0,17.0,30.0,3.0,4.0,57.1429,sMCI
+487435,57.0,Female,20,Not Hisp/Latino,White,2.0,0.5,2.0,2.0,39.0,6.0,12.0,100.0,sMCI
+383296,72.9,Female,12,Not Hisp/Latino,White,1.0,1.0,7.0,10.0,52.0,10.0,8.0,57.1429,sMCI
+298966,83.4,Female,20,Hisp/Latino,White,0.0,2.5,5.0,7.0,40.0,4.0,2.0,18.1818,pMCI
+298979,72.7,Male,14,Not Hisp/Latino,White,1.0,0.5,5.0,7.0,34.0,4.0,6.0,85.7143,sMCI
+397017,71.5,Male,14,Hisp/Latino,White,0.0,1.5,13.0,19.0,19.0,2.0,4.0,100.0,sMCI
+298987,68.1,Male,14,Not Hisp/Latino,White,1.0,1.5,10.0,16.0,34.0,4.0,3.0,30.0,pMCI
+298995,63.0,Male,15,Not Hisp/Latino,White,1.0,1.0,8.0,11.0,32.0,7.0,4.0,44.4444,sMCI
+397034,77.6,Female,13,Not Hisp/Latino,White,1.0,0.0,14.0,19.0,34.0,8.0,3.0,27.2727,sMCI
+698589,73.6,Male,19,Not Hisp/Latino,Asian,1.0,5.0,13.0,20.0,41.0,6.0,4.0,36.3636,pMCI
+299003,74.3,Male,18,Not Hisp/Latino,White,0.0,2.0,14.0,21.0,33.0,6.0,5.0,55.5556,sMCI
+356723,64.2,Male,18,Not Hisp/Latino,White,0.0,2.0,9.0,16.0,22.0,4.0,2.0,33.3333,sMCI
+763047,85.9,Male,17,Not Hisp/Latino,White,2.0,4.5,14.0,23.0,21.0,5.0,5.0,83.3333,pMCI
+299011,82.3,Female,14,Not Hisp/Latino,White,0.0,0.5,6.0,10.0,27.0,4.0,6.0,85.7143,pMCI
+356740,70.9,Male,12,Not Hisp/Latino,White,0.0,2.0,6.0,10.0,27.0,5.0,6.0,75.0,sMCI
+786090,72.3,Female,12,Not Hisp/Latino,White,2.0,0.5,8.0,12.0,43.0,7.0,8.0,72.7273,sMCI
+356748,74.7,Male,20,Not Hisp/Latino,White,1.0,0.5,5.0,10.0,38.0,5.0,10.0,100.0,pMCI
+812582,77.5,Female,18,Not Hisp/Latino,White,0.0,1.0,7.0,14.0,35.0,1.0,5.0,71.4286,sMCI
+298806,67.4,Male,20,Not Hisp/Latino,White,2.0,0.5,6.0,8.0,39.0,5.0,6.0,54.5455,sMCI
+298814,72.5,Male,16,Not Hisp/Latino,White,0.0,2.0,5.0,10.0,36.0,5.0,2.0,22.2222,sMCI
+356764,82.7,Female,12,Not Hisp/Latino,White,0.0,2.0,6.0,11.0,32.0,4.0,7.0,87.5,sMCI
+880419,76.0,Female,14,Not Hisp/Latino,Black,0.0,2.0,10.0,17.0,39.0,7.0,8.0,72.7273,sMCI
+298822,82.3,Female,15,Not Hisp/Latino,White,0.0,1.0,7.0,14.0,37.0,3.0,4.0,44.4444,sMCI
+298830,83.0,Male,18,Not Hisp/Latino,White,0.0,1.5,6.0,13.0,29.0,7.0,4.0,44.4444,sMCI
+413170,74.6,Male,18,Not Hisp/Latino,White,0.0,1.0,4.0,10.0,27.0,1.0,5.0,83.3333,sMCI
+334811,61.9,Female,12,Not Hisp/Latino,White,2.0,0.5,11.0,17.0,29.0,4.0,8.0,100.0,sMCI
+420857,68.0,Male,14,Not Hisp/Latino,White,1.0,1.0,11.0,17.0,34.0,4.0,4.0,44.4444,sMCI
+298846,68.5,Male,18,Not Hisp/Latino,White,0.0,0.5,9.67,14.67,34.0,3.0,8.0,100.0,sMCI
+366718,75.8,Female,11,Not Hisp/Latino,White,0.0,2.0,4.0,10.0,36.0,6.0,4.0,40.0,sMCI
+334819,66.5,Male,17,Not Hisp/Latino,White,0.0,2.5,8.0,13.0,30.0,3.0,6.0,85.7143,pMCI
+366734,57.0,Female,20,Not Hisp/Latino,White,2.0,1.0,3.0,4.0,42.0,6.0,5.0,45.4545,sMCI
+420881,71.0,Male,18,Not Hisp/Latino,White,1.0,2.0,4.0,6.0,28.0,5.0,2.0,28.5714,sMCI
+298870,76.0,Female,14,Not Hisp/Latino,Black,0.0,2.0,10.0,17.0,35.0,4.0,5.0,55.5556,sMCI
+420889,63.6,Female,16,Not Hisp/Latino,White,0.0,0.0,4.0,7.0,52.0,11.0,4.0,26.6667,sMCI
+298879,71.6,Female,13,Not Hisp/Latino,Asian,0.0,1.0,11.0,17.0,27.0,2.0,0.0,0.0,sMCI
+298895,76.2,Male,11,Not Hisp/Latino,White,0.0,1.0,7.0,11.0,22.0,2.0,3.0,60.0,sMCI
+334867,63.0,Male,15,Not Hisp/Latino,White,1.0,1.0,6.0,9.0,38.0,8.0,7.0,58.3333,sMCI
+298903,87.8,Female,12,Not Hisp/Latino,White,0.0,0.5,5.0,10.0,44.0,9.0,4.0,30.7692,sMCI
+298911,72.5,Male,16,Not Hisp/Latino,White,0.0,2.0,5.0,10.0,36.0,5.0,2.0,22.2222,sMCI
+298919,78.1,Female,17,Not Hisp/Latino,White,0.0,0.5,7.0,10.0,37.0,6.0,7.0,70.0,sMCI
+383257,68.0,Male,14,Not Hisp/Latino,White,1.0,1.0,10.0,15.0,30.0,3.0,4.0,50.0,sMCI
+298927,72.6,Male,19,Not Hisp/Latino,White,1.0,1.5,8.0,11.0,38.0,3.0,6.0,66.6667,sMCI
+471147,68.3,Male,16,Not Hisp/Latino,White,1.0,3.5,4.0,7.0,35.0,3.0,0.0,0.0,sMCI
+487428,71.5,Male,14,Hisp/Latino,White,0.0,3.0,15.0,19.0,26.0,6.0,4.0,50.0,sMCI
+298943,65.0,Male,14,Not Hisp/Latino,Black,0.0,1.0,4.0,10.0,54.0,6.0,5.0,35.7143,sMCI
+487436,75.8,Male,15,Not Hisp/Latino,White,0.0,1.0,6.0,8.0,35.0,4.0,9.0,100.0,sMCI
+383297,68.5,Male,18,Not Hisp/Latino,White,0.0,1.0,5.0,11.0,34.0,2.0,8.0,100.0,sMCI
+537843,64.2,Male,18,Not Hisp/Latino,White,0.0,0.5,10.0,16.0,24.0,4.0,7.0,100.0,sMCI
+298967,72.5,Male,16,Not Hisp/Latino,White,0.0,3.0,4.0,8.0,37.0,6.0,5.0,50.0,sMCI
+356692,77.6,Female,13,Not Hisp/Latino,White,1.0,0.5,9.0,15.0,35.0,9.0,3.0,27.2727,sMCI
+298980,83.0,Male,18,Not Hisp/Latino,White,0.0,2.5,7.0,11.0,30.0,6.0,9.0,100.0,sMCI
+397019,68.0,Male,14,Not Hisp/Latino,White,1.0,1.0,10.0,15.0,30.0,3.0,4.0,50.0,sMCI
+298988,68.5,Male,18,Not Hisp/Latino,White,0.0,1.0,5.0,9.0,40.0,4.0,3.0,30.0,sMCI
+614192,74.6,Male,18,Not Hisp/Latino,White,0.0,0.5,12.0,19.0,30.0,2.0,3.0,50.0,sMCI
+298996,82.3,Female,14,Not Hisp/Latino,White,0.0,0.5,6.0,10.0,27.0,4.0,6.0,85.7143,pMCI
+698590,66.5,Male,17,Not Hisp/Latino,White,0.0,1.0,10.0,15.0,36.0,3.0,8.0,100.0,pMCI
+299004,57.0,Female,20,Not Hisp/Latino,White,2.0,1.0,4.0,5.0,43.0,2.0,6.0,66.6667,sMCI
+397043,81.9,Male,17,Not Hisp/Latino,White,1.0,1.0,8.0,17.0,38.0,7.0,10.0,100.0,sMCI
+763049,77.5,Female,14,Not Hisp/Latino,White,0.0,3.0,12.0,19.0,31.0,2.0,6.0,100.0,sMCI
+299012,63.6,Female,16,Not Hisp/Latino,White,0.0,1.0,4.0,5.0,54.0,4.0,8.0,66.6667,sMCI
+397051,71.2,Female,18,Not Hisp/Latino,White,0.0,0.5,4.0,5.0,41.0,2.0,0.0,0.0,sMCI
+356733,65.0,Male,19,Not Hisp/Latino,White,1.0,0.0,1.0,1.0,55.0,7.0,6.0,42.8571,CN
+298791,79.3,Male,20,Not Hisp/Latino,White,0.0,0.0,10.0,12.0,33.0,3.0,6.0,75.0,CN
+356741,89.0,Male,16,Not Hisp/Latino,White,0.0,0.0,10.0,13.0,28.0,4.0,3.0,42.8571,CN
+413131,69.3,Female,12,Hisp/Latino,White,1.0,0.5,4.0,7.0,43.0,4.0,5.0,50.0,CN
+298799,68.7,Female,16,Not Hisp/Latino,Black,0.0,0.0,3.0,3.0,47.0,6.0,7.0,58.3333,CN
+356757,78.4,Female,16,Not Hisp/Latino,White,1.0,0.0,4.0,7.0,57.0,8.0,7.0,50.0,CN
+812592,78.4,Female,16,Not Hisp/Latino,White,1.0,2.5,15.67,23.67,33.0,3.0,6.0,75.0,CN
+413171,67.7,Male,18,Not Hisp/Latino,White,1.0,0.0,5.0,9.0,39.0,3.0,6.0,66.6667,CN
+334812,71.4,Male,20,Not Hisp/Latino,White,0.0,0.0,4.0,7.0,43.0,5.0,1.0,9.090910000000001,CN
+334820,72.8,Male,18,Not Hisp/Latino,White,0.0,0.0,5.0,11.0,35.0,5.0,7.0,77.7778,CN
+420866,72.9,Male,13,Not Hisp/Latino,White,0.0,0.0,6.0,7.0,46.0,2.0,6.0,66.6667,CN
+298855,71.7,Female,19,Not Hisp/Latino,White,0.0,0.0,3.0,4.0,51.0,5.0,6.0,50.0,CN
+334828,65.0,Male,19,Not Hisp/Latino,White,1.0,0.0,1.0,1.0,55.0,7.0,6.0,42.8571,CN
+366735,83.7,Male,16,Not Hisp/Latino,Asian,0.0,0.0,10.0,15.0,26.0,6.0,8.0,100.0,CN
+420882,70.8,Female,15,Not Hisp/Latino,White,0.0,0.5,5.0,8.0,38.0,11.0,1.0,8.33333,CN
+334852,73.5,Male,20,Not Hisp/Latino,White,1.0,0.0,9.0,15.0,38.0,3.0,8.0,100.0,CN
+334868,76.1,Male,18,Not Hisp/Latino,White,0.0,0.0,4.0,9.0,43.0,6.0,3.0,25.0,CN
+437866,76.3,Female,14,Not Hisp/Latino,White,0.0,0.0,4.0,6.0,55.0,6.0,3.0,23.0769,CN
+449736,77.1,Male,19,Not Hisp/Latino,White,0.0,0.0,3.0,4.0,54.0,5.0,0.0,0.0,CN
+298928,83.7,Male,16,Not Hisp/Latino,Asian,0.0,0.0,8.0,13.0,18.0,6.0,2.0,28.5714,CN
+471148,72.4,Male,13,Not Hisp/Latino,White,1.0,6.0,22.0,32.0,19.0,2.0,5.0,100.0,CN
+298936,70.1,Male,13,Not Hisp/Latino,White,1.0,0.0,9.0,13.0,47.0,1.0,7.0,70.0,CN
+356661,81.7,Female,14,Hisp/Latino,White,0.0,0.0,6.0,9.0,51.0,8.0,3.0,23.0769,CN
+383282,65.4,Male,18,Not Hisp/Latino,White,0.0,0.0,4.0,5.0,56.0,6.0,0.0,0.0,CN
+383290,65.0,Male,19,Not Hisp/Latino,White,1.0,0.0,1.0,2.0,69.0,6.0,1.0,6.66667,CN
+537828,67.6,Female,14,Hisp/Latino,White,1.0,0.0,2.0,2.0,63.0,9.0,0.0,0.0,CN
+298960,70.8,Female,15,Not Hisp/Latino,White,0.0,0.0,4.0,6.0,43.0,10.0,1.0,7.692310000000001,CN
+356685,65.4,Male,18,Not Hisp/Latino,White,0.0,0.0,1.0,1.0,42.0,5.0,8.0,72.7273,CN
+397001,59.8,Female,18,Hisp/Latino,White,0.0,0.0,4.0,6.0,48.0,6.0,3.0,25.0,CN
+614177,71.7,Female,15,Not Hisp/Latino,White,0.0,0.0,3.0,5.0,41.0,9.0,2.0,15.3846,CN
+334748,65.8,Female,15,Hisp/Latino,White,1.0,0.0,5.0,7.0,48.0,6.0,5.0,41.6667,CN
+334749,67.6,Female,14,Hisp/Latino,White,1.0,0.0,4.0,4.0,62.0,8.0,5.0,33.3333,CN
+356734,76.3,Female,14,Not Hisp/Latino,White,0.0,0.0,9.0,10.0,37.0,4.0,7.0,77.7778,CN
+763060,65.0,Male,19,Not Hisp/Latino,White,1.0,0.0,4.0,6.0,71.0,4.0,2.0,13.3333,CN
+334765,65.3,Male,13,Not Hisp/Latino,White,1.0,0.0,6.0,11.0,39.0,4.0,3.0,33.3333,CN
+298808,76.1,Female,16,Not Hisp/Latino,White,1.0,0.0,5.0,8.0,36.0,1.0,5.0,71.4286,CN
+334813,77.1,Male,19,Not Hisp/Latino,White,0.0,0.0,6.0,8.0,36.0,6.0,4.0,40.0,CN
+334821,71.5,Male,19,Not Hisp/Latino,White,0.0,0.5,3.0,7.0,44.0,3.0,5.0,50.0,CN
+366728,71.7,Female,19,Not Hisp/Latino,White,0.0,1.0,1.0,2.0,54.0,5.0,1.0,8.33333,CN
+334829,76.3,Female,14,Not Hisp/Latino,White,0.0,0.0,9.0,10.0,37.0,4.0,7.0,77.7778,CN
+437851,70.8,Female,18,Not Hisp/Latino,White,0.0,0.0,1.0,1.0,55.0,8.0,-1.0,-7.692310000000001,CN
+298889,78.4,Female,16,Not Hisp/Latino,White,1.0,0.0,3.0,6.0,53.0,7.0,3.0,23.0769,CN
+437859,71.7,Female,19,Not Hisp/Latino,White,0.0,0.0,3.0,3.0,65.0,7.0,1.0,6.66667,CN
+298897,68.3,Male,20,Not Hisp/Latino,White,0.0,0.0,9.0,15.0,51.0,3.0,3.0,30.0,CN
+383243,59.8,Female,18,Hisp/Latino,White,0.0,0.0,2.0,5.0,39.0,7.0,6.0,54.5455,CN
+298921,85.9,Female,12,Not Hisp/Latino,White,0.0,0.0,6.0,9.0,35.0,5.0,2.0,22.2222,CN
+383259,71.7,Female,19,Not Hisp/Latino,White,0.0,0.0,3.0,4.0,51.0,5.0,6.0,50.0,CN
+298929,73.5,Male,20,Not Hisp/Latino,White,1.0,0.0,9.0,15.0,38.0,3.0,8.0,100.0,CN
+356654,68.5,Female,14,Hisp/Latino,White,1.0,0.0,5.0,7.0,38.0,3.0,3.0,33.3333,CN
+383291,76.3,Female,14,Not Hisp/Latino,White,0.0,0.0,6.0,8.0,50.0,5.0,11.0,84.6154,CN
+298961,79.3,Male,20,Not Hisp/Latino,White,0.0,0.0,6.0,11.0,37.0,4.0,4.0,44.4444,CN
+383299,72.3,Female,16,Unknown,White,1.0,0.0,4.0,9.0,51.0,5.0,7.0,53.8462,CN
+298998,73.0,Male,18,Not Hisp/Latino,White,0.0,0.0,6.0,7.0,40.0,6.0,5.0,45.4545,CN
+397037,72.7,Female,12,Not Hisp/Latino,White,1.0,0.0,11.0,14.0,31.0,6.0,9.0,100.0,CN
+763061,70.1,Male,13,Not Hisp/Latino,White,1.0,0.5,6.0,13.0,37.0,2.0,6.0,75.0,CN
+413125,72.5,Female,14,Not Hisp/Latino,White,0.0,0.0,5.0,11.0,44.0,7.0,7.0,53.8462,CN
+356743,85.9,Female,12,Not Hisp/Latino,White,0.0,0.0,4.0,8.0,33.0,7.0,6.0,60.0,CN
+334766,79.3,Male,20,Not Hisp/Latino,Asian,0.0,0.0,14.0,23.0,24.0,1.0,5.0,100.0,CN
+845683,79.3,Male,20,Not Hisp/Latino,Asian,0.0,0.5,17.0,27.0,28.0,1.0,6.0,100.0,CN
+298817,70.8,Female,16,Hisp/Latino,White,0.0,0.0,6.0,10.0,46.0,7.0,5.0,41.6667,CN
+334790,73.4,Female,13,Not Hisp/Latino,Black,0.0,0.0,4.0,7.0,42.0,8.0,3.0,25.0,CN
+413157,73.5,Male,20,Not Hisp/Latino,White,1.0,0.0,7.0,11.0,27.0,6.0,6.0,85.7143,CN
+298841,62.3,Male,18,Not Hisp/Latino,Am Indian/Alaskan,0.0,0.0,5.67,7.67,70.0,4.0,0.0,0.0,CN
+420868,68.7,Female,16,Not Hisp/Latino,Black,0.0,0.0,3.0,5.0,45.0,5.0,11.0,100.0,CN
+334838,72.5,Female,14,Not Hisp/Latino,White,0.0,0.0,5.0,11.0,44.0,7.0,7.0,53.8462,CN
+334846,78.4,Female,16,Not Hisp/Latino,White,1.0,0.0,4.0,7.0,57.0,8.0,7.0,50.0,CN
+369568,72.9,Male,13,Not Hisp/Latino,White,0.0,0.0,7.0,10.0,36.0,4.0,3.0,42.8571,CN
+437860,70.3,Female,20,Not Hisp/Latino,White,0.0,0.0,6.0,10.0,56.0,7.0,5.0,38.4615,CN
+298898,67.7,Male,18,Not Hisp/Latino,White,1.0,0.0,8.0,14.0,49.0,6.0,5.0,45.4545,CN
+437868,72.3,Female,16,Unknown,White,1.0,0.0,5.0,9.0,38.0,5.0,4.0,40.0,CN
+356631,71.7,Female,15,Not Hisp/Latino,White,0.0,0.0,2.0,3.0,57.0,10.0,1.0,6.66667,CN
+298914,70.8,Female,16,Hisp/Latino,White,0.0,0.0,6.0,10.0,46.0,7.0,5.0,41.6667,CN
+449738,83.8,Male,20,Not Hisp/Latino,White,0.0,0.0,15.0,20.0,24.0,4.0,4.0,66.6667,CN
+383268,68.7,Female,16,Not Hisp/Latino,Black,0.0,0.0,3.0,5.0,55.0,7.0,13.0,92.8571,CN
+487431,73.3,Male,20,Not Hisp/Latino,White,0.0,3.5,11.0,16.0,34.0,4.0,9.0,100.0,CN
+383284,83.8,Male,20,Not Hisp/Latino,White,0.0,1.0,7.0,13.0,27.0,4.0,5.0,71.4286,CN
+383300,76.1,Male,18,Not Hisp/Latino,White,0.0,0.5,7.0,12.0,39.0,3.0,3.0,33.3333,CN
+298975,70.8,Female,16,Hisp/Latino,White,0.0,0.0,9.0,14.0,38.0,8.0,12.0,100.0,CN
+356703,77.1,Male,19,Not Hisp/Latino,White,0.0,0.0,6.0,8.0,36.0,6.0,4.0,40.0,CN
+397046,81.8,Male,20,Not Hisp/Latino,White,0.0,0.0,6.0,13.0,36.0,7.0,4.0,44.4444,CN
+763053,76.1,Female,16,Not Hisp/Latino,White,1.0,0.0,6.0,9.0,25.0,2.0,1.0,20.0,CN
+413126,68.5,Female,14,Hisp/Latino,White,1.0,0.0,7.0,9.0,55.0,9.0,3.0,21.4286,CN
+356744,73.9,Female,12,Not Hisp/Latino,White,1.0,0.0,2.0,3.0,40.0,5.0,3.0,30.0,CN
+298810,72.6,Male,18,Not Hisp/Latino,White,0.0,0.0,7.0,9.0,45.0,5.0,6.0,50.0,CN
+298818,89.0,Male,16,Not Hisp/Latino,White,0.0,0.0,5.0,9.0,31.0,3.0,3.0,42.8571,CN
+366706,72.9,Male,13,Not Hisp/Latino,White,0.0,0.0,7.0,10.0,36.0,4.0,3.0,42.8571,CN
+298842,68.2,Female,12,Not Hisp/Latino,White,1.0,0.0,7.0,14.0,44.0,2.0,8.0,88.8889,CN
+298850,70.1,Male,13,Not Hisp/Latino,White,1.0,0.0,4.0,9.0,47.0,2.0,7.0,70.0,CN
+298866,72.8,Male,18,Not Hisp/Latino,White,0.0,0.0,6.0,10.0,48.0,4.0,5.0,50.0,CN
+298899,78.4,Female,12,Not Hisp/Latino,White,0.0,0.0,4.0,7.0,48.0,8.0,3.0,23.0769,CN
+298915,89.0,Male,16,Not Hisp/Latino,White,0.0,0.0,5.0,9.0,31.0,3.0,3.0,42.8571,CN
+383261,71.5,Male,19,Not Hisp/Latino,White,0.0,0.5,3.0,7.0,44.0,3.0,5.0,50.0,CN
+383277,68.2,Female,12,Not Hisp/Latino,White,1.0,1.0,6.0,13.0,37.0,4.0,9.0,100.0,CN
+356664,69.3,Female,12,Hisp/Latino,White,1.0,0.5,4.0,7.0,43.0,4.0,5.0,50.0,CN
+537836,72.6,Female,20,Not Hisp/Latino,White,0.0,0.0,6.0,7.0,47.0,6.0,3.0,27.2727,CN
+298976,89.0,Male,16,Not Hisp/Latino,White,0.0,0.0,10.0,13.0,28.0,4.0,3.0,42.8571,CN
+356696,68.7,Female,16,Not Hisp/Latino,Black,0.0,0.0,3.0,3.0,47.0,6.0,7.0,58.3333,CN
+397023,59.8,Female,18,Hisp/Latino,White,0.0,0.0,2.0,5.0,39.0,7.0,6.0,54.5455,CN
+356704,70.8,Female,18,Not Hisp/Latino,White,0.0,0.0,1.0,1.0,47.0,6.0,0.0,0.0,CN
+614188,73.0,Male,18,Not Hisp/Latino,White,0.0,0.0,6.0,8.0,50.0,10.0,6.0,42.8571,CN
+698586,72.9,Male,13,Not Hisp/Latino,White,0.0,0.0,2.0,5.0,42.0,4.0,1.0,10.0,CN
+356720,70.3,Female,20,Not Hisp/Latino,White,0.0,0.0,4.0,9.0,46.0,5.0,3.0,27.2727,CN
+698594,70.8,Female,15,Not Hisp/Latino,White,0.0,0.0,5.0,8.0,45.0,12.0,5.0,35.7143,CN
+397047,72.4,Male,20,Not Hisp/Latino,White,0.0,0.0,7.0,10.0,35.0,7.0,3.0,33.3333,CN
+763055,77.1,Male,19,Not Hisp/Latino,White,0.0,0.0,4.0,7.0,54.0,5.0,0.0,0.0,CN
+334752,77.1,Male,19,Not Hisp/Latino,White,0.0,0.0,6.0,8.0,36.0,6.0,4.0,40.0,CN
+356737,79.3,Male,20,Not Hisp/Latino,White,0.0,0.0,6.0,11.0,37.0,4.0,4.0,44.4444,CN
+786086,79.0,Male,20,Not Hisp/Latino,White,0.0,0.0,2.0,9.0,52.0,3.0,6.0,54.5455,CN
+334760,81.7,Female,14,Hisp/Latino,White,0.0,0.0,6.0,9.0,51.0,8.0,3.0,23.0769,CN
+298795,72.5,Female,14,Not Hisp/Latino,White,0.0,0.0,3.0,7.0,51.0,10.0,6.0,40.0,CN
+334768,70.3,Female,20,Not Hisp/Latino,White,0.0,0.0,4.0,9.0,46.0,5.0,3.0,27.2727,CN
+413143,70.0,Female,10,Not Hisp/Latino,White,0.0,0.0,2.0,3.0,50.0,9.0,2.0,15.3846,CN
+298811,71.4,Male,20,Not Hisp/Latino,White,0.0,0.0,4.0,7.0,43.0,5.0,1.0,9.090910000000001,CN
+334792,68.5,Female,14,Hisp/Latino,White,1.0,0.0,5.0,7.0,38.0,3.0,3.0,33.3333,CN
+413159,70.1,Male,13,Not Hisp/Latino,White,1.0,0.0,3.0,7.0,44.0,3.0,7.0,77.7778,CN
+366707,67.6,Female,14,Hisp/Latino,White,1.0,0.0,4.0,4.0,62.0,8.0,5.0,33.3333,CN
+334808,65.3,Male,13,Not Hisp/Latino,White,1.0,0.0,6.0,11.0,39.0,4.0,3.0,33.3333,CN
+366723,72.6,Male,18,Not Hisp/Latino,White,0.0,0.0,5.0,6.0,48.0,5.0,7.0,63.6364,CN
+420870,71.4,Male,20,Not Hisp/Latino,White,0.0,0.0,2.0,5.0,43.0,9.0,1.0,8.33333,CN
+298867,71.5,Male,19,Not Hisp/Latino,White,0.0,0.5,3.0,7.0,44.0,3.0,5.0,50.0,CN
+437862,65.4,Male,18,Not Hisp/Latino,White,0.0,0.0,2.0,3.0,49.0,3.0,-2.0,-20.0,CN
+298900,70.8,Female,15,Not Hisp/Latino,White,0.0,0.5,2.0,4.0,51.0,8.0,8.0,66.6667,CN
+449511,73.4,Female,13,Not Hisp/Latino,Black,0.0,0.0,2.0,2.0,44.0,6.0,5.0,45.4545,CN
+356657,70.8,Female,18,Not Hisp/Latino,White,0.0,0.0,1.0,1.0,47.0,6.0,0.0,0.0,CN
+383278,65.3,Male,13,Not Hisp/Latino,White,1.0,0.0,10.0,13.0,40.0,4.0,3.0,33.3333,CN
+537837,81.8,Male,20,Not Hisp/Latino,White,0.0,1.5,11.0,18.0,35.0,7.0,9.0,90.0,CN
+356697,65.8,Female,15,Hisp/Latino,White,1.0,0.0,5.0,7.0,48.0,6.0,5.0,41.6667,CN
+614181,89.0,Male,16,Not Hisp/Latino,White,0.0,0.5,5.0,11.0,28.0,5.0,4.0,50.0,CN
+397024,74.0,Male,17,Hisp/Latino,White,0.0,0.5,14.0,16.0,34.0,5.0,2.0,22.2222,CN
+298993,72.3,Female,16,Unknown,White,1.0,0.0,7.0,11.0,39.0,4.0,5.0,55.5556,CN
+397032,72.8,Male,18,Not Hisp/Latino,White,0.0,0.5,4.0,10.0,50.0,5.0,7.0,58.3333,CN
+356713,62.3,Male,18,Not Hisp/Latino,Am Indian/Alaskan,0.0,0.0,2.0,2.0,63.0,6.0,0.0,0.0,CN
+356721,76.1,Male,18,Not Hisp/Latino,White,0.0,0.0,9.0,16.0,38.0,5.0,6.0,60.0,CN
+397048,73.0,Male,18,Not Hisp/Latino,White,0.0,0.0,2.0,4.0,44.0,8.0,8.0,57.1429,CN
+763056,70.8,Female,18,Not Hisp/Latino,White,0.0,0.0,4.0,5.0,57.0,7.0,-1.0,-7.142860000000001,CN
+334753,70.8,Female,18,Not Hisp/Latino,White,0.0,0.0,1.0,1.0,47.0,6.0,0.0,0.0,CN
+298796,72.9,Male,13,Not Hisp/Latino,White,0.0,0.0,8.0,10.0,54.0,7.0,2.0,15.3846,CN
+334769,65.4,Male,18,Not Hisp/Latino,White,0.0,0.0,1.0,1.0,42.0,5.0,8.0,72.7273,CN
+812589,65.4,Male,18,Not Hisp/Latino,White,0.0,0.0,4.0,4.0,43.0,7.0,2.0,16.6667,CN
+334777,65.0,Male,19,Not Hisp/Latino,White,1.0,0.0,1.0,1.0,55.0,7.0,6.0,42.8571,CN
+298828,85.9,Female,12,Not Hisp/Latino,White,0.0,0.0,6.0,9.0,35.0,5.0,2.0,22.2222,CN
+413168,78.4,Female,16,Not Hisp/Latino,White,1.0,0.5,3.0,6.0,58.0,7.0,1.0,7.142860000000001,CN
+366708,76.1,Female,16,Not Hisp/Latino,White,1.0,0.0,6.0,9.0,29.0,4.0,6.0,85.7143,CN
+334809,79.3,Male,20,Not Hisp/Latino,Asian,0.0,0.0,14.0,23.0,24.0,1.0,5.0,100.0,CN
+334817,62.3,Male,18,Not Hisp/Latino,Am Indian/Alaskan,0.0,0.0,2.0,2.0,63.0,6.0,0.0,0.0,CN
+298860,72.3,Female,16,Unknown,White,1.0,0.0,7.0,11.0,39.0,4.0,5.0,55.5556,CN
+366732,76.1,Female,16,Not Hisp/Latino,White,1.0,0.0,5.0,9.0,36.0,6.0,6.0,66.6667,CN
+369555,73.3,Male,20,Not Hisp/Latino,White,0.0,3.0,4.0,6.0,35.0,5.0,10.0,100.0,CN
+437855,83.7,Male,16,Not Hisp/Latino,Asian,0.0,0.0,8.0,13.0,45.0,9.0,4.0,30.7692,CN
+437863,72.8,Male,18,Not Hisp/Latino,White,0.0,0.0,3.0,7.0,38.0,6.0,5.0,50.0,CN
+356626,71.9,Female,14,Hisp/Latino,White,1.0,0.0,4.0,6.0,52.0,6.0,7.0,58.3333,CN
+298909,76.1,Female,16,Not Hisp/Latino,White,1.0,0.0,6.0,9.0,29.0,4.0,6.0,85.7143,CN
+383247,71.9,Female,14,Hisp/Latino,White,1.0,0.5,2.0,2.0,43.0,6.0,6.0,54.5455,CN
+383271,77.1,Male,19,Not Hisp/Latino,White,0.0,0.0,2.0,4.0,44.0,6.0,0.0,0.0,CN
+383279,79.3,Male,20,Not Hisp/Latino,Asian,0.0,0.0,14.0,23.0,20.0,1.0,4.0,80.0,CN
+298949,73.0,Male,18,Not Hisp/Latino,White,0.0,0.0,4.0,6.0,49.0,5.0,3.0,25.0,CN
+298957,68.3,Male,20,Not Hisp/Latino,White,0.0,0.0,6.0,10.0,39.0,5.0,6.0,66.6667,CN
+356682,71.7,Female,19,Not Hisp/Latino,White,0.0,0.0,3.0,4.0,51.0,5.0,6.0,50.0,CN
+614182,85.9,Female,12,Not Hisp/Latino,White,0.0,0.0,8.0,13.0,37.0,4.0,9.0,100.0,CN
+614190,78.4,Female,16,Not Hisp/Latino,White,1.0,0.0,7.0,12.0,48.0,7.0,3.0,27.2727,CN
+397033,71.5,Male,19,Not Hisp/Latino,White,0.0,3.0,4.0,10.0,46.0,-1.0,3.0,37.5,CN
+356714,68.2,Female,12,Not Hisp/Latino,White,1.0,0.0,7.0,14.0,44.0,2.0,8.0,88.8889,CN
+698588,71.4,Male,20,Not Hisp/Latino,White,0.0,0.0,3.0,4.0,37.0,8.0,1.0,9.090910000000001,CN
+763057,71.7,Female,19,Not Hisp/Latino,White,0.0,0.0,2.0,2.0,56.0,5.0,0.0,0.0,CN
+786088,71.5,Male,19,Not Hisp/Latino,White,0.0,3.0,7.0,11.0,35.0,4.0,7.0,70.0,CN
+334770,83.8,Male,20,Not Hisp/Latino,White,0.0,0.0,9.0,19.0,29.0,4.0,4.0,57.1429,CN
+356755,73.0,Male,18,Not Hisp/Latino,White,0.0,0.0,6.0,7.0,40.0,6.0,5.0,45.4545,CN
+812590,76.3,Female,14,Not Hisp/Latino,White,0.0,0.0,4.0,7.0,46.0,3.0,7.0,63.6364,CN
+334794,59.8,Female,18,Hisp/Latino,White,0.0,0.0,4.0,6.0,48.0,6.0,3.0,25.0,CN
+298829,75.1,Female,14,Not Hisp/Latino,White,0.0,0.0,4.0,7.0,48.0,9.0,4.0,30.7692,CN
+298837,83.7,Male,16,Not Hisp/Latino,Asian,0.0,0.0,8.0,13.0,45.0,9.0,4.0,30.7692,CN
+366709,74.0,Male,17,Hisp/Latino,White,0.0,0.5,14.0,16.0,34.0,5.0,2.0,22.2222,CN
+334818,68.2,Female,12,Not Hisp/Latino,White,1.0,0.0,7.0,14.0,44.0,2.0,8.0,88.8889,CN
+420864,73.3,Male,20,Not Hisp/Latino,White,0.0,6.0,7.0,10.0,37.0,4.0,9.0,100.0,CN
+366725,73.5,Male,20,Not Hisp/Latino,White,1.0,0.0,9.0,15.0,38.0,3.0,8.0,100.0,CN
+298861,76.1,Male,18,Not Hisp/Latino,White,0.0,0.0,9.0,16.0,38.0,5.0,6.0,60.0,CN
+334842,70.1,Male,13,Not Hisp/Latino,White,1.0,0.0,9.0,13.0,47.0,1.0,7.0,70.0,CN
+334850,75.1,Female,14,Not Hisp/Latino,White,0.0,0.0,3.0,5.0,49.0,7.0,7.0,53.8462,CN
+437848,65.8,Female,15,Hisp/Latino,White,1.0,0.0,3.0,4.0,46.0,5.0,1.0,9.090910000000001,CN
+369572,70.3,Female,20,Not Hisp/Latino,White,0.0,0.0,3.0,5.0,50.0,5.0,3.0,25.0,CN
+437856,62.3,Male,18,Not Hisp/Latino,Am Indian/Alaskan,0.0,0.0,2.0,2.0,64.0,7.0,-1.0,-7.142860000000001,CN
+334866,72.3,Female,16,Unknown,White,1.0,0.0,5.0,10.0,50.0,8.0,10.0,76.9231,CN
+298902,72.5,Female,14,Not Hisp/Latino,White,0.0,0.0,5.0,11.0,44.0,7.0,7.0,53.8462,CN
+356627,69.3,Female,12,Hisp/Latino,White,1.0,0.0,6.0,7.0,48.0,6.0,4.0,30.7692,CN
+383248,69.3,Female,12,Hisp/Latino,White,1.0,0.5,4.0,7.0,43.0,4.0,5.0,50.0,CN
+383272,70.8,Female,18,Not Hisp/Latino,White,0.0,0.0,1.0,1.0,52.0,9.0,0.0,0.0,CN
+356659,74.0,Male,17,Hisp/Latino,White,0.0,0.0,17.0,20.0,31.0,4.0,5.0,62.5,CN
+298958,67.7,Male,18,Not Hisp/Latino,White,1.0,0.0,7.0,9.0,37.0,8.0,5.0,45.4545,CN
+356683,70.3,Female,20,Not Hisp/Latino,White,0.0,0.0,4.0,9.0,46.0,5.0,3.0,27.2727,CN
+614175,71.9,Female,14,Hisp/Latino,White,1.0,0.5,3.0,3.0,36.0,9.0,7.0,63.6364,CN
+356699,72.6,Male,18,Not Hisp/Latino,White,0.0,0.0,7.0,9.0,45.0,5.0,6.0,50.0,CN
+614183,73.9,Female,12,Not Hisp/Latino,White,1.0,0.0,3.0,7.0,49.0,6.0,3.0,25.0,CN
+356715,65.3,Male,13,Not Hisp/Latino,White,1.0,0.0,6.0,11.0,39.0,4.0,3.0,33.3333,CN
+397042,89.0,Male,16,Not Hisp/Latino,White,0.0,0.0,6.0,8.0,49.0,4.0,5.0,45.4545,CN
+397050,72.4,Male,13,Not Hisp/Latino,White,1.0,6.0,18.0,27.0,23.0,4.0,5.0,83.3333,CN
+763058,83.8,Male,20,Not Hisp/Latino,White,0.0,3.0,15.0,23.0,26.0,5.0,6.0,75.0,CN
+298790,72.7,Female,12,Not Hisp/Latino,White,1.0,0.0,5.0,9.0,34.0,6.0,3.0,30.0,CN
+413130,71.9,Female,14,Hisp/Latino,White,1.0,0.5,2.0,2.0,43.0,6.0,6.0,54.5455,CN
+334779,76.3,Female,14,Not Hisp/Latino,White,0.0,0.0,9.0,10.0,37.0,4.0,7.0,77.7778,CN
+413162,72.6,Female,20,Not Hisp/Latino,White,0.0,0.0,9.0,10.0,49.0,6.0,4.0,30.7692,CN
+366702,73.4,Female,13,Not Hisp/Latino,Black,0.0,0.0,4.0,7.0,42.0,8.0,3.0,25.0,CN
+298838,73.5,Male,20,Not Hisp/Latino,White,1.0,0.0,14.0,20.0,39.0,4.0,5.0,55.5556,CN
+366710,81.7,Female,14,Hisp/Latino,White,0.0,0.0,7.0,10.0,46.0,6.0,7.0,58.3333,CN
+420865,72.5,Female,14,Not Hisp/Latino,White,0.0,0.5,7.0,11.0,40.0,4.0,10.0,100.0,CN
+366726,62.3,Male,18,Not Hisp/Latino,Am Indian/Alaskan,0.0,0.0,2.0,2.0,71.0,4.0,1.0,6.66667,CN
+420873,75.1,Female,14,Not Hisp/Latino,White,0.0,0.0,4.0,7.0,48.0,9.0,4.0,30.7692,CN
+298862,77.0,Male,19,Not Hisp/Latino,White,0.0,0.0,6.0,12.0,33.0,3.0,4.0,50.0,CN
+334843,72.8,Male,18,Not Hisp/Latino,White,0.0,0.0,5.0,11.0,35.0,5.0,7.0,77.7778,CN
+334851,83.7,Male,16,Not Hisp/Latino,Asian,0.0,0.0,8.0,13.0,18.0,6.0,2.0,28.5714,CN
+437849,76.1,Female,16,Not Hisp/Latino,White,1.0,0.0,5.0,9.0,36.0,6.0,6.0,66.6667,CN
+298887,73.0,Male,18,Not Hisp/Latino,White,0.0,0.0,4.0,6.0,49.0,5.0,3.0,25.0,CN
+437857,68.2,Female,12,Not Hisp/Latino,White,1.0,1.0,8.0,16.0,30.0,0.0,5.0,83.3333,CN
+383241,68.5,Female,14,Hisp/Latino,White,1.0,0.0,7.0,9.0,55.0,9.0,3.0,21.4286,CN
+383281,70.1,Male,13,Not Hisp/Latino,White,1.0,0.0,9.0,13.0,47.0,1.0,7.0,70.0,CN
+298951,78.4,Female,16,Not Hisp/Latino,White,1.0,0.0,3.0,6.0,53.0,7.0,3.0,23.0769,CN
+298959,78.4,Female,12,Not Hisp/Latino,White,0.0,0.0,3.0,5.0,57.0,11.0,1.0,6.66667,CN
+614176,69.3,Female,12,Hisp/Latino,White,1.0,0.5,3.0,5.0,48.0,6.0,0.0,0.0,CN
+356700,71.4,Male,20,Not Hisp/Latino,White,0.0,0.0,4.0,7.0,43.0,5.0,1.0,9.090910000000001,CN
+614184,70.0,Female,10,Not Hisp/Latino,White,0.0,0.0,1.0,2.0,45.0,9.0,5.0,35.7143,CN
+356708,70.0,Female,20,Not Hisp/Latino,Black,1.0,0.0,11.0,14.0,29.0,9.0,8.0,72.7273,CN
+397035,73.4,Female,13,Not Hisp/Latino,Black,0.0,0.0,2.0,3.0,47.0,11.0,4.0,28.5714,CN
+356716,79.3,Male,20,Not Hisp/Latino,Asian,0.0,0.0,14.0,23.0,24.0,1.0,5.0,100.0,CN
+356724,83.8,Male,20,Not Hisp/Latino,White,0.0,0.0,9.0,19.0,29.0,4.0,4.0,57.1429,CN
+413123,80.6,Male,13,Not Hisp/Latino,White,0.0,4.5,21.0,32.0,17.0,3.0,5.0,100.0,AD
+356749,73.7,Male,18,Not Hisp/Latino,White,1.0,3.5,28.0,39.0,13.0,1.0,3.0,100.0,AD
+366695,65.9,Male,16,Not Hisp/Latino,White,2.0,4.5,22.0,29.0,27.0,2.0,5.0,83.3333,AD
+298839,78.5,Male,16,Not Hisp/Latino,White,1.0,4.0,23.0,33.0,23.0,2.0,5.0,100.0,AD
+366711,78.5,Male,12,Not Hisp/Latino,White,1.0,8.0,31.0,44.0,18.0,1.0,4.0,100.0,AD
+334836,71.7,Male,12,Not Hisp/Latino,White,1.0,3.0,13.0,19.0,28.0,-1.0,3.0,60.0,AD
+383230,75.2,Male,16,Not Hisp/Latino,White,0.0,1.0,16.0,26.0,17.0,1.0,4.0,100.0,AD
+383242,75.1,Female,11,Not Hisp/Latino,White,1.0,5.0,23.0,32.0,33.0,4.0,7.0,87.5,AD
+356645,74.3,Female,12,Not Hisp/Latino,White,1.0,7.0,20.0,31.0,28.0,3.0,5.0,83.3333,AD
+356653,61.8,Male,20,Not Hisp/Latino,Asian,0.0,5.0,13.0,22.0,22.0,4.0,4.0,66.6667,AD
+356669,83.2,Male,19,Not Hisp/Latino,White,1.0,4.5,23.0,33.0,17.0,2.0,3.0,75.0,AD
+356677,78.5,Male,16,Not Hisp/Latino,White,1.0,4.5,20.0,34.0,21.0,0.0,3.0,100.0,AD
+356701,70.7,Female,16,Not Hisp/Latino,White,1.0,3.0,15.0,24.0,26.0,1.0,6.0,100.0,AD
+397028,77.7,Male,16,Not Hisp/Latino,White,2.0,5.0,26.0,38.0,12.0,1.0,3.0,100.0,AD
+356725,71.1,Male,12,Not Hisp/Latino,White,2.0,4.5,19.0,30.0,21.0,3.0,6.0,100.0,AD
+334757,65.9,Female,13,Not Hisp/Latino,White,1.0,4.5,9.0,17.0,29.0,3.0,7.0,100.0,AD
+413124,65.9,Male,16,Not Hisp/Latino,White,2.0,4.5,22.0,29.0,27.0,2.0,5.0,83.3333,AD
+298792,66.7,Male,20,Not Hisp/Latino,White,1.0,5.0,23.0,31.0,29.0,5.0,6.0,66.6667,AD
+413140,80.1,Female,18,Not Hisp/Latino,White,2.0,4.5,25.0,35.0,21.0,1.0,5.0,100.0,AD
+298816,90.3,Male,17,Hisp/Latino,White,0.0,6.5,15.0,27.0,21.0,1.0,4.0,100.0,AD
+366696,81.4,Female,15,Not Hisp/Latino,White,0.0,7.0,26.0,40.0,12.0,4.0,5.0,100.0,AD
+366704,63.7,Female,16,Not Hisp/Latino,White,1.0,5.0,22.0,36.0,16.0,0.0,3.0,100.0,AD
+298848,73.7,Male,18,Not Hisp/Latino,White,1.0,3.0,26.0,38.0,11.0,-1.0,1.0,100.0,AD
+298864,64.0,Female,15,Not Hisp/Latino,White,2.0,6.0,14.0,24.0,26.0,2.0,6.0,100.0,AD
+334837,64.0,Female,15,Not Hisp/Latino,White,2.0,6.0,34.0,47.0,16.0,4.0,4.0,100.0,AD
+369559,60.7,Male,18,Not Hisp/Latino,White,0.0,6.0,37.0,51.0,5.0,-1.0,1.0,100.0,AD
+369567,89.3,Male,16,Not Hisp/Latino,White,0.0,3.0,23.0,35.0,19.0,4.0,5.0,100.0,AD
+356630,77.5,Female,11,Not Hisp/Latino,More than one,0.0,4.5,20.0,30.0,24.0,3.0,6.0,100.0,AD
+298913,90.3,Male,17,Hisp/Latino,White,0.0,6.5,15.0,27.0,21.0,1.0,4.0,100.0,AD
+356638,80.1,Female,18,Not Hisp/Latino,White,2.0,3.5,15.0,24.0,18.0,0.0,2.0,66.6667,AD
+383267,66.7,Male,20,Not Hisp/Latino,White,1.0,5.0,28.0,42.0,14.0,4.0,4.0,100.0,AD
+356662,73.8,Male,12,Hisp/Latino,White,1.0,4.5,19.0,27.0,16.0,-1.0,2.0,100.0,AD
+537829,77.0,Female,12,Not Hisp/Latino,White,0.0,10.0,26.0,38.0,22.0,2.0,6.0,100.0,AD
+356686,74.3,Female,12,Not Hisp/Latino,White,1.0,7.0,20.0,31.0,28.0,3.0,5.0,83.3333,AD
+298974,90.3,Male,17,Hisp/Latino,White,0.0,6.5,15.0,27.0,21.0,1.0,4.0,100.0,AD
+397003,78.8,Male,12,Not Hisp/Latino,White,0.0,6.0,21.0,32.0,21.0,4.0,6.0,100.0,AD
+397021,61.8,Male,20,Not Hisp/Latino,Asian,0.0,5.0,13.0,22.0,22.0,4.0,4.0,66.6667,AD
+334750,68.0,Male,14,Not Hisp/Latino,White,1.0,5.0,30.0,39.0,12.0,1.0,2.0,100.0,AD
+413110,61.4,Female,16,Hisp/Latino,White,1.0,6.0,25.0,36.0,22.0,3.0,5.0,100.0,AD
+413133,83.2,Male,19,Not Hisp/Latino,White,1.0,5.0,29.0,40.0,22.0,0.0,3.0,75.0,AD
+812585,81.6,Male,20,Unknown,White,1.0,2.5,22.0,33.0,33.0,0.0,6.0,100.0,AD
+334774,71.7,Male,12,Not Hisp/Latino,White,1.0,3.0,13.0,19.0,28.0,-1.0,3.0,60.0,AD
+413141,80.9,Male,16,Not Hisp/Latino,White,0.0,7.0,25.0,36.0,11.0,2.0,2.0,100.0,AD
+366705,61.9,Male,16,Not Hisp/Latino,White,2.0,6.0,18.0,24.0,18.0,2.0,4.0,100.0,AD
+366713,77.7,Male,16,Not Hisp/Latino,White,2.0,5.0,26.0,38.0,12.0,1.0,3.0,100.0,AD
+334814,55.6,Female,16,Not Hisp/Latino,White,1.0,4.5,16.0,27.0,27.0,7.0,7.0,77.7778,AD
+420860,85.3,Male,20,Not Hisp/Latino,White,1.0,5.0,40.0,51.0,12.0,-1.0,1.0,100.0,AD
+334830,68.0,Male,14,Not Hisp/Latino,White,1.0,5.0,30.0,39.0,12.0,1.0,2.0,100.0,AD
+298865,81.6,Male,20,Unknown,White,1.0,4.5,15.0,24.0,31.0,2.0,7.0,100.0,AD
+369560,74.5,Male,20,Not Hisp/Latino,White,0.0,7.0,14.0,20.0,24.0,1.0,2.0,50.0,AD
+298882,71.1,Male,12,Not Hisp/Latino,White,2.0,4.5,19.0,30.0,21.0,3.0,6.0,100.0,AD
+383215,78.8,Male,12,Not Hisp/Latino,White,0.0,6.0,21.0,32.0,21.0,4.0,6.0,100.0,AD
+334862,90.3,Male,17,Hisp/Latino,White,0.0,9.0,20.0,30.0,21.0,1.0,4.0,100.0,AD
+356623,81.4,Female,15,Not Hisp/Latino,White,0.0,7.0,26.0,40.0,12.0,4.0,5.0,100.0,AD
+383244,81.4,Female,15,Not Hisp/Latino,White,0.0,14.0,46.0,60.0,4.0,1.0,1.0,100.0,AD
+383252,80.1,Female,18,Not Hisp/Latino,White,2.0,4.5,25.0,35.0,21.0,1.0,5.0,100.0,AD
+356655,75.1,Female,11,Not Hisp/Latino,White,1.0,5.0,12.0,20.0,33.0,5.0,8.0,88.8889,AD
+383276,78.5,Male,16,Not Hisp/Latino,White,1.0,7.0,24.0,37.0,14.0,1.0,3.0,100.0,AD
+397004,72.8,Female,18,Not Hisp/Latino,White,1.0,3.0,19.0,25.0,18.0,1.0,4.0,100.0,AD
+356695,89.3,Male,16,Not Hisp/Latino,White,0.0,2.5,29.0,39.0,15.0,3.0,4.0,100.0,AD
+397022,75.1,Female,11,Not Hisp/Latino,White,1.0,5.0,23.0,32.0,33.0,4.0,7.0,87.5,AD
+356719,89.6,Male,12,Not Hisp/Latino,White,1.0,4.0,23.0,34.0,24.0,2.0,5.0,100.0,AD
+413116,66.7,Male,20,Not Hisp/Latino,White,1.0,5.0,28.0,42.0,14.0,4.0,4.0,100.0,AD
+298794,60.7,Male,18,Not Hisp/Latino,White,0.0,6.0,37.0,51.0,5.0,-1.0,1.0,100.0,AD
+356752,81.6,Male,20,Unknown,White,1.0,2.5,22.0,33.0,33.0,0.0,6.0,100.0,AD
+413158,73.7,Male,18,Not Hisp/Latino,White,1.0,6.0,37.0,49.0,13.0,0.0,2.0,100.0,AD
+366698,80.1,Female,18,Not Hisp/Latino,White,2.0,4.5,25.0,35.0,21.0,1.0,5.0,100.0,AD
+366714,83.2,Male,19,Not Hisp/Latino,White,1.0,5.0,29.0,40.0,22.0,0.0,3.0,75.0,AD
+420861,61.8,Male,20,Not Hisp/Latino,Asian,0.0,4.5,19.0,29.0,26.0,2.0,3.0,50.0,AD
+366730,71.1,Male,12,Not Hisp/Latino,White,2.0,4.5,19.0,32.0,19.0,4.0,5.0,100.0,AD
+420877,71.1,Male,12,Not Hisp/Latino,White,2.0,8.0,22.0,34.0,16.0,1.0,4.0,100.0,AD
+369550,77.0,Female,12,Not Hisp/Latino,White,0.0,8.0,32.0,43.0,19.0,0.0,3.0,75.0,AD
+383216,61.4,Female,16,Hisp/Latino,White,1.0,6.0,25.0,36.0,22.0,3.0,5.0,100.0,AD
+383237,85.3,Male,20,Not Hisp/Latino,White,1.0,5.0,40.0,51.0,12.0,-1.0,1.0,100.0,AD
+356624,81.5,Male,18,Not Hisp/Latino,White,0.0,5.0,13.0,24.0,22.0,1.0,5.0,100.0,AD
+383245,81.5,Male,18,Not Hisp/Latino,White,0.0,9.0,16.0,27.0,23.0,-1.0,4.0,100.0,AD
+356632,77.3,Male,14,Not Hisp/Latino,White,0.0,6.0,27.0,38.0,18.0,1.0,4.0,100.0,AD
+383253,80.9,Male,16,Not Hisp/Latino,White,0.0,7.0,25.0,36.0,11.0,2.0,2.0,100.0,AD
+383269,68.0,Male,14,Not Hisp/Latino,White,1.0,6.0,31.0,43.0,9.0,1.0,2.0,100.0,AD
+356656,70.7,Female,16,Not Hisp/Latino,White,1.0,3.0,15.0,24.0,26.0,1.0,6.0,100.0,AD
+356712,78.5,Male,16,Not Hisp/Latino,White,1.0,4.5,20.0,34.0,21.0,0.0,3.0,100.0,AD
+413117,77.5,Female,11,Not Hisp/Latino,More than one,0.0,5.0,20.0,30.0,22.0,-1.0,4.0,100.0,AD
+413127,81.4,Female,15,Not Hisp/Latino,White,0.0,14.0,46.0,60.0,4.0,1.0,1.0,100.0,AD
+298819,55.6,Female,16,Not Hisp/Latino,White,1.0,4.5,16.0,27.0,27.0,7.0,7.0,77.7778,AD
+366687,75.2,Male,16,Not Hisp/Latino,White,0.0,1.0,16.0,26.0,17.0,1.0,4.0,100.0,AD
+366699,80.9,Male,16,Not Hisp/Latino,White,0.0,7.0,25.0,36.0,11.0,2.0,2.0,100.0,AD
+420851,81.5,Male,18,Not Hisp/Latino,White,0.0,8.0,20.0,31.0,22.0,-2.0,3.0,100.0,AD
+334816,65.9,Female,13,Not Hisp/Latino,White,1.0,4.5,9.0,17.0,29.0,3.0,7.0,100.0,AD
+420862,80.6,Male,13,Not Hisp/Latino,White,0.0,4.5,18.0,28.0,20.0,0.0,4.0,100.0,AD
+298851,89.6,Male,12,Not Hisp/Latino,White,1.0,3.5,23.0,34.0,23.0,2.0,5.0,100.0,AD
+334824,71.1,Male,12,Not Hisp/Latino,White,2.0,4.5,19.0,30.0,21.0,3.0,6.0,100.0,AD
+369554,77.5,Male,20,Not Hisp/Latino,White,1.0,5.0,15.0,21.0,23.0,-1.0,3.0,75.0,AD
+383217,72.8,Female,18,Not Hisp/Latino,White,1.0,3.0,19.0,25.0,18.0,1.0,4.0,100.0,AD
+383238,61.8,Male,20,Not Hisp/Latino,Asian,0.0,5.0,13.0,22.0,22.0,4.0,4.0,66.6667,AD
+356625,74.5,Male,20,Not Hisp/Latino,White,0.0,4.5,21.0,33.0,23.0,7.0,6.0,85.7143,AD
+383246,73.8,Male,12,Hisp/Latino,White,1.0,4.5,20.0,29.0,15.0,2.0,4.0,100.0,AD
+356649,89.3,Male,16,Not Hisp/Latino,White,0.0,2.5,29.0,39.0,15.0,3.0,4.0,100.0,AD
+383270,70.7,Female,16,Not Hisp/Latino,White,1.0,4.0,23.0,33.0,30.0,2.0,7.0,100.0,AD
+383286,71.7,Male,12,Not Hisp/Latino,White,1.0,4.5,23.0,31.0,35.0,1.0,4.0,57.1429,AD
+356681,89.6,Male,12,Not Hisp/Latino,White,1.0,4.0,23.0,34.0,24.0,2.0,5.0,100.0,AD
+397012,77.5,Male,20,Not Hisp/Latino,White,1.0,5.0,15.0,21.0,23.0,-1.0,3.0,75.0,AD
+356729,71.7,Male,12,Not Hisp/Latino,White,1.0,3.0,13.0,19.0,28.0,-1.0,3.0,60.0,AD
+413120,77.5,Male,20,Not Hisp/Latino,White,1.0,5.0,15.0,21.0,23.0,-1.0,3.0,75.0,AD
+413128,74.5,Male,20,Not Hisp/Latino,White,0.0,7.0,14.0,20.0,24.0,1.0,2.0,50.0,AD
+298812,70.7,Female,16,Not Hisp/Latino,White,1.0,3.0,15.0,24.0,26.0,1.0,6.0,100.0,AD
+413152,89.3,Male,16,Not Hisp/Latino,White,0.0,3.0,23.0,35.0,19.0,4.0,5.0,100.0,AD
+334793,75.1,Female,11,Not Hisp/Latino,White,1.0,5.0,12.0,20.0,33.0,5.0,8.0,88.8889,AD
+413160,81.6,Male,20,Unknown,White,1.0,7.0,10.0,20.0,33.0,3.0,9.0,100.0,AD
+420863,65.9,Male,16,Not Hisp/Latino,White,2.0,6.0,28.0,38.0,19.0,0.0,4.0,100.0,AD
+420871,70.7,Female,16,Not Hisp/Latino,White,1.0,4.0,15.0,25.0,29.0,2.0,8.0,100.0,AD
+420879,90.3,Female,13,Not Hisp/Latino,White,0.0,12.0,31.0,43.0,13.0,2.0,3.0,100.0,AD
+437846,71.0,Female,14,Not Hisp/Latino,White,1.0,5.0,32.0,45.0,16.0,0.0,3.0,100.0,AD
+369571,65.9,Female,13,Not Hisp/Latino,White,1.0,4.5,13.0,22.0,19.0,4.0,4.0,80.0,AD
+298893,90.3,Female,13,Not Hisp/Latino,White,0.0,5.5,20.0,32.0,26.0,2.0,5.0,100.0,AD
+298901,66.7,Male,20,Not Hisp/Latino,White,1.0,5.0,28.0,42.0,14.0,4.0,4.0,100.0,AD
+383239,80.6,Male,13,Not Hisp/Latino,White,0.0,4.5,21.0,32.0,17.0,3.0,5.0,100.0,AD
+356650,63.7,Female,16,Not Hisp/Latino,White,1.0,5.0,22.0,36.0,16.0,0.0,3.0,100.0,AD
+356658,74.5,Male,20,Not Hisp/Latino,White,0.0,4.5,21.0,33.0,23.0,7.0,6.0,85.7143,AD
+298941,81.6,Male,20,Unknown,White,1.0,4.5,15.0,24.0,31.0,2.0,7.0,100.0,AD
+383295,90.3,Male,17,Hisp/Latino,White,0.0,10.0,16.0,29.0,19.0,0.0,4.0,100.0,AD
+396992,66.1,Female,16,Hisp/Latino,White,1.0,2.5,12.0,18.0,28.0,1.0,4.0,80.0,AD
+397013,71.0,Female,14,Not Hisp/Latino,White,1.0,5.0,26.0,39.0,14.0,2.0,3.0,100.0,AD
+356698,68.0,Male,14,Not Hisp/Latino,White,1.0,5.0,30.0,39.0,12.0,1.0,2.0,100.0,AD
+356706,65.9,Female,13,Not Hisp/Latino,White,1.0,4.5,9.0,17.0,29.0,3.0,7.0,100.0,AD
+413121,71.0,Female,14,Not Hisp/Latino,White,1.0,5.0,26.0,39.0,14.0,2.0,3.0,100.0,AD
+413129,73.8,Male,12,Hisp/Latino,White,1.0,4.5,20.0,29.0,15.0,2.0,4.0,100.0,AD
+334786,77.7,Male,16,Not Hisp/Latino,White,2.0,3.5,21.0,31.0,18.0,1.0,4.0,100.0,AD
+413153,63.7,Female,16,Not Hisp/Latino,White,1.0,5.0,22.0,36.0,16.0,0.0,3.0,100.0,AD
+366693,71.0,Female,14,Not Hisp/Latino,White,1.0,5.0,26.0,39.0,14.0,2.0,3.0,100.0,AD
+369564,70.9,Male,16,Not Hisp/Latino,White,1.0,5.0,23.0,37.0,19.0,1.0,4.0,100.0,AD
+334858,64.0,Female,15,Not Hisp/Latino,White,2.0,6.0,34.0,47.0,16.0,4.0,4.0,100.0,AD
+383240,65.9,Male,16,Not Hisp/Latino,White,2.0,4.5,22.0,29.0,27.0,2.0,5.0,83.3333,AD
+356635,70.9,Male,16,Not Hisp/Latino,White,1.0,4.5,23.0,36.0,20.0,2.0,5.0,100.0,AD
+383264,63.7,Female,16,Not Hisp/Latino,White,1.0,5.0,22.0,36.0,16.0,0.0,3.0,100.0,AD
+356651,61.9,Male,16,Not Hisp/Latino,White,2.0,3.5,14.0,20.0,20.0,2.0,4.0,80.0,AD
+298934,73.7,Male,18,Not Hisp/Latino,White,1.0,3.0,26.0,38.0,11.0,-1.0,1.0,100.0,AD
+397026,78.5,Male,12,Not Hisp/Latino,White,1.0,10.0,34.0,47.0,20.0,1.0,4.0,100.0,AD
+356732,90.3,Female,13,Not Hisp/Latino,White,0.0,5.5,20.0,32.0,26.0,2.0,5.0,100.0,AD
+334755,86.5,Male,9,Hisp/Latino,White,0.0,6.0,28.0,36.0,18.0,1.0,4.0,100.0,AD
+413122,85.3,Male,20,Not Hisp/Latino,White,1.0,5.0,40.0,51.0,12.0,-1.0,1.0,100.0,AD
+334763,78.5,Male,12,Not Hisp/Latino,White,1.0,8.0,31.0,44.0,18.0,1.0,4.0,100.0,AD
+413138,70.9,Male,16,Not Hisp/Latino,White,1.0,5.0,23.0,37.0,19.0,1.0,4.0,100.0,AD
+334787,83.2,Male,19,Not Hisp/Latino,White,1.0,4.5,23.0,33.0,17.0,2.0,3.0,75.0,AD
+413154,61.9,Male,16,Not Hisp/Latino,White,2.0,6.0,18.0,24.0,18.0,2.0,4.0,100.0,AD
+366694,80.6,Male,13,Not Hisp/Latino,White,0.0,4.5,21.0,32.0,17.0,3.0,5.0,100.0,AD
+334795,73.8,Male,12,Hisp/Latino,White,1.0,4.5,19.0,27.0,16.0,-1.0,2.0,100.0,AD
+334827,90.3,Female,13,Not Hisp/Latino,White,0.0,5.5,20.0,32.0,26.0,2.0,5.0,100.0,AD
+369557,70.9,Male,16,Not Hisp/Latino,White,1.0,4.5,23.0,36.0,20.0,2.0,5.0,100.0,AD
+383229,81.5,Male,18,Not Hisp/Latino,White,0.0,9.0,16.0,27.0,23.0,-1.0,4.0,100.0,AD
+449733,75.2,Male,16,Not Hisp/Latino,White,0.0,1.0,13.0,22.0,25.0,1.0,5.0,100.0,AD
+383265,61.9,Male,16,Not Hisp/Latino,White,2.0,6.0,18.0,24.0,18.0,2.0,4.0,100.0,AD
+356652,85.3,Male,20,Not Hisp/Latino,White,1.0,5.0,40.0,51.0,12.0,-1.0,1.0,100.0,AD
+356668,77.7,Male,16,Not Hisp/Latino,White,2.0,3.5,21.0,31.0,18.0,1.0,4.0,100.0,AD
+383289,90.3,Female,13,Not Hisp/Latino,White,0.0,10.0,25.0,36.0,19.0,1.0,4.0,100.0,AD
